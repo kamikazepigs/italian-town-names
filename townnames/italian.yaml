@@ -1,0 +1,883 @@
+available: true
+id: 1
+mainset:
+- names:
+  - name: Abano Terme
+    probability: 2
+  - name: Abbadia Cerreto
+    probability: 2
+  - name: Abbadia Lariana
+    probability: 2
+  - name: Abbadia San Salvatore
+    probability: 2
+  - name: Abbasanta
+    probability: 2
+  - name: Abbateggio
+    probability: 2
+  - name: Abbiategrasso
+    probability: 2
+  - name: Abetone Cutigliano
+    probability: 2
+  - name: Abriola
+    probability: 2
+  - name: Acate
+    probability: 2
+  - name: Accadia
+    probability: 2
+  - name: Acceglio
+    probability: 2
+  - name: Accettura
+    probability: 2
+  - name: Acciano
+    probability: 2
+  - name: Accumoli
+    probability: 2
+  - name: Acerenza
+    probability: 2
+  - name: Acerno
+    probability: 2
+  - name: Acerra
+    probability: 2
+  - name: Aci Bonaccorsi
+    probability: 2
+  - name: Aci Castello
+    probability: 2
+  - name: Aci Catena
+    probability: 2
+  - name: Aci Sant'Antonio
+    probability: 2
+  - name: Acireale
+    probability: 2
+  - name: Acquafondata
+    probability: 2
+  - name: Acquaformosa
+    probability: 2
+  - name: Acquafredda
+    probability: 2
+  - name: Acqualagna
+    probability: 2
+  - name: Acquanegra Cremonese
+    probability: 2
+  - name: Acquanegra sul Chiese
+    probability: 2
+  - name: Acquapendente
+    probability: 2
+  - name: Acquappesa
+    probability: 2
+  - name: Acquaro
+    probability: 2
+  - name: Acquasanta Terme
+    probability: 2
+  - name: Acquasparta
+    probability: 2
+  - name: Acquaviva Collecroce
+    probability: 2
+  - name: Acquaviva d'Isernia
+    probability: 2
+  - name: Acquaviva delle Fonti
+    probability: 2
+  - name: Acquaviva Picena
+    probability: 2
+  - name: Acquaviva Platani
+    probability: 2
+  - name: Acquedolci
+    probability: 2
+  - name: Acqui Terme
+    probability: 2
+  - name: Acri
+    probability: 2
+  - name: Acuto
+    probability: 2
+  - name: Adelfia
+    probability: 2
+  - name: Adrano
+    probability: 2
+  - name: Adrara San Martino
+    probability: 2
+  - name: Adrara San Rocco
+    probability: 2
+  - name: Adria
+    probability: 2
+  - name: Adro
+    probability: 2
+  - name: Affi
+    probability: 2
+  - name: Affile
+    probability: 2
+  - name: Afragola
+    probability: 2
+  - name: Africo
+    probability: 2
+  - name: Agazzano
+    probability: 2
+  - name: Agerola
+    probability: 2
+  - name: Aggius
+    probability: 2
+  - name: Agira
+    probability: 2
+  - name: Agliana
+    probability: 2
+  - name: Agliano Terme
+    probability: 2
+  - name: Agliè
+    probability: 2
+  - name: Aglientu
+    probability: 2
+  - name: Agna
+    probability: 2
+  - name: Agnadello
+    probability: 2
+  - name: Agnana Calabra
+    probability: 2
+  - name: Agnone
+    probability: 2
+  - name: Agnosine
+    probability: 2
+  - name: Agordo
+    probability: 2
+  - name: Agosta
+    probability: 2
+  - name: Agra
+    probability: 2
+  - name: Agrate Brianza
+    probability: 2
+  - name: Agrate Conturbia
+    probability: 2
+  - name: Agrigento
+    probability: 2
+  - name: Agropoli
+    probability: 2
+  - name: Agugliano
+    probability: 2
+  - name: Agugliaro
+    probability: 2
+  - name: Aicurzio
+    probability: 2
+  - name: Aidomaggiore
+    probability: 2
+  - name: Aidone
+    probability: 2
+  - name: Aielli
+    probability: 2
+  - name: Aiello Calabro
+    probability: 2
+  - name: Aiello del Friuli
+    probability: 2
+  - name: Aiello del Sabato
+    probability: 2
+  - name: Aieta
+    probability: 2
+  - name: Ailano
+    probability: 2
+  - name: Ailoche
+    probability: 2
+  - name: Airasca
+    probability: 2
+  - name: Airola
+    probability: 2
+  - name: Airole
+    probability: 2
+  - name: Airuno
+    probability: 2
+  - name: Aisone
+    probability: 2
+  - name: Ala
+    probability: 2
+  - name: Alà dei Sardi
+    probability: 2
+  - name: Ala di Stura
+    probability: 2
+  - name: Alagna
+    probability: 2
+  - name: Alagna Valsesia
+    probability: 2
+  - name: Alanno
+    probability: 2
+  - name: Alano di Piave
+    probability: 2
+  - name: Alassio
+    probability: 2
+  - name: Alatri
+    probability: 2
+  - name: Alba
+    probability: 2
+  - name: Alba Adriatica
+    probability: 2
+  - name: Albagiara
+    probability: 2
+  - name: Albairate
+    probability: 2
+  - name: Albanella
+    probability: 2
+  - name: Albano di Lucania
+    probability: 2
+  - name: Albano Laziale
+    probability: 2
+  - name: Albano Sant'Alessandro
+    probability: 2
+  - name: Albano Vercellese
+    probability: 2
+  - name: Albaredo Arnaboldi
+    probability: 2
+  - name: Albaredo d'Adige
+    probability: 2
+  - name: Albaredo per San Marco
+    probability: 2
+  - name: Albareto
+    probability: 2
+  - name: Albaretto della Torre
+    probability: 2
+  - name: Albavilla
+    probability: 2
+  - name: Albenga
+    probability: 2
+  - name: Albera Ligure
+    probability: 2
+  - name: Alberobello
+    probability: 2
+  - name: Alberona
+    probability: 2
+  - name: Albese con Cassano
+    probability: 2
+  - name: Albettone
+    probability: 2
+  - name: Albi
+    probability: 2
+  - name: Albiano
+    probability: 2
+  - name: Albiano d'Ivrea
+    probability: 2
+  - name: Albiate
+    probability: 2
+  - name: Albidona
+    probability: 2
+  - name: Albignasego
+    probability: 2
+  - name: Albinea
+    probability: 2
+  - name: Albino
+    probability: 2
+  - name: Albiolo
+    probability: 2
+  - name: Albisola Superiore
+    probability: 2
+  - name: Albissola Marina
+    probability: 2
+  - name: Albizzate
+    probability: 2
+  - name: Albonese
+    probability: 2
+  - name: Albosaggia
+    probability: 2
+  - name: Albugnano
+    probability: 2
+  - name: Albuzzano
+    probability: 2
+  - name: Alcamo
+    probability: 2
+  - name: Alcara Li Fusi
+    probability: 2
+  - name: Aldeno
+    probability: 2
+  - name: Aldino
+    probability: 2
+  - name: Ales
+    probability: 2
+  - name: Alessandria
+    probability: 2
+  - name: Alessandria del Carretto
+    probability: 2
+  - name: Alessandria della Rocca
+    probability: 2
+  - name: Alessano
+    probability: 2
+  - name: Alezio
+    probability: 2
+  - name: Alfano
+    probability: 2
+  - name: Alfedena
+    probability: 2
+  - name: Alfianello
+    probability: 2
+  - name: Alfiano Natta
+    probability: 2
+  - name: Alfonsine
+    probability: 2
+  - name: Alghero
+    probability: 2
+  - name: Algua
+    probability: 2
+  - name: Alì
+    probability: 2
+  - name: Alì Terme
+    probability: 2
+  - name: Alia
+    probability: 2
+  - name: Aliano
+    probability: 2
+  - name: Alice Bel Colle
+    probability: 2
+  - name: Alice Castello
+    probability: 2
+  - name: Alife
+    probability: 2
+  - name: Alimena
+    probability: 2
+  - name: Aliminusa
+    probability: 2
+  - name: Allai
+    probability: 2
+  - name: Alleghe
+    probability: 2
+  - name: Allein
+    probability: 2
+  - name: Allerona
+    probability: 2
+  - name: Alliste
+    probability: 2
+  - name: Allumiere
+    probability: 2
+  - name: Alluvioni Piovera
+    probability: 2
+  - name: Almè
+    probability: 2
+  - name: Almenno San Bartolomeo
+    probability: 2
+  - name: Almenno San Salvatore
+    probability: 2
+  - name: Almese
+    probability: 2
+  - name: Alonte
+    probability: 2
+  - name: Alpago
+    probability: 2
+  - name: Alpette
+    probability: 2
+  - name: Alpignano
+    probability: 2
+  - name: Alseno
+    probability: 2
+  - name: Alserio
+    probability: 2
+  - name: Altamura
+    probability: 2
+  - name: Altare
+    probability: 2
+  - name: Alta Val Tidone
+    probability: 2
+  - name: Alta Valle Intelvi
+    probability: 2
+  - name: Altavalle
+    probability: 2
+  - name: Altavilla Irpina
+    probability: 2
+  - name: Altavilla Milicia
+    probability: 2
+  - name: Altavilla Monferrato
+    probability: 2
+  - name: Altavilla Silentina
+    probability: 2
+  - name: Altavilla Vicentina
+    probability: 2
+  - name: Altidona
+    probability: 2
+  - name: Altilia
+    probability: 2
+  - name: Altino
+    probability: 2
+  - name: Altissimo
+    probability: 2
+  - name: Altivole
+    probability: 2
+  - name: Alto
+    probability: 2
+  - name: Altofonte
+    probability: 2
+  - name: Altomonte
+    probability: 2
+  - name: Altopascio
+    probability: 2
+  - name: Altopiano della Vigolana
+    probability: 2
+  - name: Alto Reno Terme
+    probability: 2
+  - name: Alto Sermenza
+    probability: 2
+  - name: Alviano
+    probability: 2
+  - name: Alvignano
+    probability: 2
+  - name: Alvito
+    probability: 2
+  - name: Alzano Lombardo
+    probability: 2
+  - name: Alzano Scrivia
+    probability: 2
+  - name: Alzate Brianza
+    probability: 2
+  - name: Amalfi
+    probability: 2
+  - name: Amandola
+    probability: 2
+  - name: Amantea
+    probability: 2
+  - name: Amaro
+    probability: 2
+  - name: Amaroni
+    probability: 2
+  - name: Amaseno
+    probability: 2
+  - name: Amato
+    probability: 2
+  - name: Amatrice
+    probability: 2
+  - name: Ambivere
+    probability: 2
+  - name: Amblar-Don
+    probability: 2
+  - name: Ameglia
+    probability: 2
+  - name: Amelia
+    probability: 2
+  - name: Amendolara
+    probability: 2
+  - name: Ameno
+    probability: 2
+  - name: Amorosi
+    probability: 2
+  - name: Ampezzo
+    probability: 2
+  - name: Anacapri
+    probability: 2
+  - name: Anagni
+    probability: 2
+  - name: Ancarano
+    probability: 2
+  - name: Ancona
+    probability: 2
+  - name: Andali
+    probability: 2
+  - name: Andalo
+    probability: 2
+  - name: Andalo Valtellino
+    probability: 2
+  - name: Andezeno
+    probability: 2
+  - name: Andora
+    probability: 2
+  - name: Andorno Micca
+    probability: 2
+  - name: Andrano
+    probability: 2
+  - name: Andrate
+    probability: 2
+  - name: Andreis
+    probability: 2
+  - name: Andretta
+    probability: 2
+  - name: Andria
+    probability: 2
+  - name: Andriano
+    probability: 2
+  - name: Anela
+    probability: 2
+  - name: Anfo
+    probability: 2
+  - name: Angera
+    probability: 2
+  - name: Anghiari
+    probability: 2
+  - name: Angiari
+    probability: 2
+  - name: Angolo Terme
+    probability: 2
+  - name: Angri
+    probability: 2
+  - name: Angrogna
+    probability: 2
+  - name: Anguillara Sabazia
+    probability: 2
+  - name: Anguillara Veneta
+    probability: 2
+  - name: Annicco
+    probability: 2
+  - name: Annone di Brianza
+    probability: 2
+  - name: Annone Veneto
+    probability: 2
+  - name: Anoia
+    probability: 2
+  - name: Antegnate
+    probability: 2
+  - name: Anterivo
+    probability: 2
+  - name: Antey-Saint-André
+    probability: 2
+  - name: Anticoli Corrado
+    probability: 2
+  - name: Antignano
+    probability: 2
+  - name: Antillo
+    probability: 2
+  - name: Antonimina
+    probability: 2
+  - name: Antrodoco
+    probability: 2
+  - name: Antrona Schieranco
+    probability: 2
+  - name: Anversa degli Abruzzi
+    probability: 2
+  - name: Anzano del Parco
+    probability: 2
+  - name: Anzano di Puglia
+    probability: 2
+  - name: Anzi
+    probability: 2
+  - name: Anzio
+    probability: 2
+  - name: Anzola d'Ossola
+    probability: 2
+  - name: Anzola dell'Emilia
+    probability: 2
+  - name: Aosta
+    probability: 2
+  - name: Apecchio
+    probability: 2
+  - name: Apice
+    probability: 2
+  - name: Apiro
+    probability: 2
+  - name: Apollosa
+    probability: 2
+  - name: Appiano Gentile
+    probability: 2
+  - name: Appiano sulla Strada del Vino
+    probability: 2
+  - name: Appignano
+    probability: 2
+  - name: Appignano del Tronto
+    probability: 2
+  - name: Aprica
+    probability: 2
+  - name: Apricale
+    probability: 2
+  - name: Apricena
+    probability: 2
+  - name: Aprigliano
+    probability: 2
+  - name: Aprilia
+    probability: 2
+  - name: Aquara
+    probability: 2
+  - name: Aquila d'Arroscia
+    probability: 2
+  - name: Aquileia
+    probability: 2
+  - name: Aquilonia
+    probability: 2
+  - name: Aquino
+    probability: 2
+  - name: Aradeo
+    probability: 2
+  - name: Aragona
+    probability: 2
+  - name: Aramengo
+    probability: 2
+  - name: Arba
+    probability: 2
+  - name: Arborea
+    probability: 2
+  - name: Arborio
+    probability: 2
+  - name: Arbus
+    probability: 2
+  - name: Arcade
+    probability: 2
+  - name: Arce
+    probability: 2
+  - name: Arcene
+    probability: 2
+  - name: Arcevia
+    probability: 2
+  - name: Archi
+    probability: 2
+  - name: Arcidosso
+    probability: 2
+  - name: Arcinazzo Romano
+    probability: 2
+  - name: Arcisate
+    probability: 2
+  - name: Arco
+    probability: 2
+  - name: Arcola
+    probability: 2
+  - name: Arcole
+    probability: 2
+  - name: Arconate
+    probability: 2
+  - name: Arcore
+    probability: 2
+  - name: Arcugnano
+    probability: 2
+  - name: Ardara
+    probability: 2
+  - name: Ardauli
+    probability: 2
+  - name: Ardea
+    probability: 2
+  - name: Ardenno
+    probability: 2
+  - name: Ardesio
+    probability: 2
+  - name: Ardore
+    probability: 2
+  - name: Arena
+    probability: 2
+  - name: Arena Po
+    probability: 2
+  - name: Arenzano
+    probability: 2
+  - name: Arese
+    probability: 2
+  - name: Arezzo
+    probability: 2
+  - name: Argegno
+    probability: 2
+  - name: Argelato
+    probability: 2
+  - name: Argenta
+    probability: 2
+  - name: Argentera
+    probability: 2
+  - name: Arguello
+    probability: 2
+  - name: Argusto
+    probability: 2
+  - name: Ari
+    probability: 2
+  - name: Ariano Irpino
+    probability: 2
+  - name: Ariano nel Polesine
+    probability: 2
+  - name: Ariccia
+    probability: 2
+  - name: Arielli
+    probability: 2
+  - name: Arienzo
+    probability: 2
+  - name: Arignano
+    probability: 2
+  - name: Aritzo
+    probability: 2
+  - name: Arizzano
+    probability: 2
+  - name: Arlena di Castro
+    probability: 2
+  - name: Arluno
+    probability: 2
+  - name: Armeno
+    probability: 2
+  - name: Armento
+    probability: 2
+  - name: Armo
+    probability: 2
+  - name: Armungia
+    probability: 2
+  - name: Arnad
+    probability: 2
+  - name: Arnara
+    probability: 2
+  - name: Arnasco
+    probability: 2
+  - name: Arnesano
+    probability: 2
+  - name: Arola
+    probability: 2
+  - name: Arona
+    probability: 2
+  - name: Arosio
+    probability: 2
+  - name: Arpaia
+    probability: 2
+  - name: Arpaise
+    probability: 2
+  - name: Arpino
+    probability: 2
+  - name: Arquà Petrarca
+    probability: 2
+  - name: Arquà Polesine
+    probability: 2
+  - name: Arquata del Tronto
+    probability: 2
+  - name: Arquata Scrivia
+    probability: 2
+  - name: Arre
+    probability: 2
+  - name: Arrone
+    probability: 2
+  - name: Arsago Seprio
+    probability: 2
+  - name: Arsiè
+    probability: 2
+  - name: Arsiero
+    probability: 2
+  - name: Arsita
+    probability: 2
+  - name: Arsoli
+    probability: 2
+  - name: Arta Terme
+    probability: 2
+  - name: Artegna
+    probability: 2
+  - name: Artena
+    probability: 2
+  - name: Artogne
+    probability: 2
+  - name: Arvier
+    probability: 2
+  - name: Arzachena
+    probability: 2
+  - name: Arzago d'Adda
+    probability: 2
+  - name: Arzana
+    probability: 2
+  - name: Arzano
+    probability: 2
+  - name: Arzergrande
+    probability: 2
+  - name: Arzignano
+    probability: 2
+  - name: Ascea
+    probability: 2
+  - name: Asciano
+    probability: 2
+  - name: Ascoli Piceno
+    probability: 2
+  - name: Ascoli Satriano
+    probability: 2
+  - name: Ascrea
+    probability: 2
+  - name: Asiago
+    probability: 2
+  - name: Asigliano Veneto
+    probability: 2
+  - name: Asigliano Vercellese
+    probability: 2
+  - name: Asola
+    probability: 2
+  - name: Asolo
+    probability: 2
+  - name: Assago
+    probability: 2
+  - name: Assemini
+    probability: 2
+  - name: Assisi
+    probability: 2
+  - name: Asso
+    probability: 2
+  - name: Assolo
+    probability: 2
+  - name: Assoro
+    probability: 2
+  - name: Asti
+    probability: 2
+  - name: Asuni
+    probability: 2
+  - name: Ateleta
+    probability: 2
+  - name: Atella
+    probability: 2
+  - name: Atena Lucana
+    probability: 2
+  - name: Atessa
+    probability: 2
+  - name: Atina
+    probability: 2
+  - name: Atrani
+    probability: 2
+  - name: Atri
+    probability: 2
+  - name: Atripalda
+    probability: 2
+  - name: Attigliano
+    probability: 2
+  - name: Attimis
+    probability: 2
+  - name: Atzara
+    probability: 2
+  - name: Augusta
+    probability: 2
+  - name: Auletta
+    probability: 2
+  - name: Aulla
+    probability: 2
+  - name: Aurano
+    probability: 2
+  - name: Aurigo
+    probability: 2
+  - name: Auronzo di Cadore
+    probability: 2
+  - name: Ausonia
+    probability: 2
+  - name: Austis
+    probability: 2
+  - name: Avegno
+    probability: 2
+  - name: Avelengo
+    probability: 2
+  - name: Avella
+    probability: 2
+  - name: Avellino
+    probability: 2
+  - name: Averara
+    probability: 2
+  - name: Aversa
+    probability: 2
+  - name: Avetrana
+    probability: 2
+  - name: Avezzano
+    probability: 2
+  - name: Aviano
+    probability: 2
+  - name: Aviatico
+    probability: 2
+  - name: Avigliana
+    probability: 2
+  - name: Avigliano
+    probability: 2
+  - name: Avigliano Umbro
+    probability: 2
+  - name: Avio
+    probability: 2
+  - name: Avise
+    probability: 2
+  - name: Avola
+    probability: 2
+  - name: Avolasca
+    probability: 2
+  - name: Ayas
+    probability: 2
+  - name: Aymavilles
+    probability: 2
+  - name: Azeglio
+    probability: 2
+  - name: Azzanello
+    probability: 2
+  - name: Azzano d'Asti
+    probability: 2
+  - name: Azzano Decimo
+    probability: 2
+  - name: Azzano Mella
+    probability: 2
+  - name: Azzano San Paolo
+    probability: 2
+  - name: Azzate
+    probability: 2
+  - name: Azzio
+    probability: 2
+  - name: Azzone
+    probability: 2
+name: Italian
+source: https://www.tuttitalia.it/
+subsets: []
