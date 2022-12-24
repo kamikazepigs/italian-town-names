@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f25ae203
 license: CC0-1.0
+name: italian-town-names
 type: townname
+url: https://github.com/kamikazepigs/italian-town-names
 version: 6
