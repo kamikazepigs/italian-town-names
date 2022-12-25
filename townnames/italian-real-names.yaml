@@ -22,8 +22,8 @@ subsets:
 - name: Capoluoghi di Regione
   parts:
   - names:
-  - name: Ancona
-    probability: 8
+    - name: Ancona
+      probability: 8
     - name: AAAAB
       probability: 1
     - name: AAABB
