@@ -4,4 +4,25 @@ mainset:
 - names: []
 name: Italian (real names)
 source: https://www.tuttitalia.it/
-subsets: []
+subsets:
+- name: Capoluoghi di Regione
+  parts:
+  - names: []
+- name: Provincie
+  parts:
+  - names: []
+- name: Comuni 1
+  parts:
+  - names: []
+- name: Comuni 2
+  parts:
+  - names: []
+- name: Comuni 3
+  parts:
+  - names: []
+- name: Comuni 4
+  parts:
+  - names: []
+- name: Comuni 5
+  parts:
+  - names: []
