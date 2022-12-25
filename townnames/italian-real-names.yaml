@@ -64,7 +64,187 @@ subsets:
       probability: 1
 - name: Provincie
   parts:
-  - names: []
+  - names:
+    - name: Agrigento
+      probability: 1
+    - name: Alessandria
+      probability: 1
+    - name: Andria
+      probability: 1
+    - name: Arezzo
+      probability: 1
+    - name: Ascoli Piceno
+      probability: 1
+    - name: Asti
+      probability: 1
+    - name: Avellino
+      probability: 1
+    - name: Barletta
+      probability: 1
+    - name: Belluno
+      probability: 1
+    - name: Benevento
+      probability: 1
+    - name: Bergamo
+      probability: 1
+    - name: Biella
+      probability: 1
+    - name: Bolzano
+      probability: 1
+    - name: Brescia
+      probability: 1
+    - name: Brindisi
+      probability: 1
+    - name: Caltanissetta
+      probability: 1
+    - name: Caserta
+      probability: 1
+    - name: Catania
+      probability: 1
+    - name: Cesena
+      probability: 1
+    - name: Chieti
+      probability: 1
+    - name: Como
+      probability: 1
+    - name: Cosenza
+      probability: 1
+    - name: Cremona
+      probability: 1
+    - name: Crotone
+      probability: 1
+    - name: Cuneo
+      probability: 1
+    - name: Enna
+      probability: 1
+    - name: Fermo
+      probability: 1
+    - name: Ferrara
+      probability: 1
+    - name: Foggia
+      probability: 1
+    - name: Forli'
+      probability: 1
+    - name: Frosinone
+      probability: 1
+    - name: Gorizia
+      probability: 1
+    - name: Grosseto
+      probability: 1
+    - name: Imperia
+      probability: 1
+    - name: Isernia
+      probability: 1
+    - name: La Spezia
+      probability: 1
+    - name: Latina
+      probability: 1
+    - name: Lecce
+      probability: 1
+    - name: Lecco
+      probability: 1
+    - name: Livorno
+      probability: 1
+    - name: Lodi
+      probability: 1
+    - name: Lucca
+      probability: 1
+    - name: Macerata
+      probability: 1
+    - name: Mantova
+      probability: 1
+    - name: Massa
+      probability: 1
+    - name: Matera
+      probability: 1
+    - name: Messina
+      probability: 1
+    - name: Modena
+      probability: 1
+    - name: Monza
+      probability: 1
+    - name: Novara
+      probability: 1
+    - name: Nuoro
+      probability: 1
+    - name: Oristano
+      probability: 1
+    - name: Padova
+      probability: 1
+    - name: Parma
+      probability: 1
+    - name: Pavia
+      probability: 1
+    - name: Pesaro
+      probability: 1
+    - name: Pescara
+      probability: 1
+    - name: Piacenza
+      probability: 1
+    - name: Pisa
+      probability: 1
+    - name: Pistoia
+      probability: 1
+    - name: Pordenone
+      probability: 1
+    - name: Prato
+      probability: 1
+    - name: Ragusa
+      probability: 1
+    - name: Ravenna
+      probability: 1
+    - name: Reggio Calabria
+      probability: 1
+    - name: Reggio Emilia
+      probability: 1
+    - name: Rieti
+      probability: 1
+    - name: Rimini
+      probability: 1
+    - name: Rovigo
+      probability: 1
+    - name: Salerno
+      probability: 1
+    - name: Sassari
+      probability: 1
+    - name: Savona
+      probability: 1
+    - name: Siena
+      probability: 1
+    - name: Siracusa
+      probability: 1
+    - name: Sondrio
+      probability: 1
+    - name: Taranto
+      probability: 1
+    - name: Teramo
+      probability: 1
+    - name: Terni
+      probability: 1
+    - name: Trani
+      probability: 1
+    - name: Trapani
+      probability: 1
+    - name: Treviso
+      probability: 1
+    - name: Udine
+      probability: 1
+    - name: Urbino
+      probability: 1
+    - name: Varese
+      probability: 1
+    - name: Verbania
+      probability: 1
+    - name: Vercelli
+      probability: 1
+    - name: Verona
+      probability: 1
+    - name: Vibo Valentia
+      probability: 1
+    - name: Vicenza
+      probability: 1
+    - name: Viterbo
+      probability: 1
 - name: Comuni 1
   parts:
   - names: []
@@ -78,5 +258,83 @@ subsets:
   parts:
   - names: []
 - name: Comuni 5
+  parts:
+  - names: []
+- name: Comuni 6
+  parts:
+  - names: []
+- name: Comuni 7
+  parts:
+  - names: []
+- name: Comuni 8
+  parts:
+  - names: []
+- name: Comuni 9
+  parts:
+  - names: []
+- name: Comuni 10
+  parts:
+  - names: []
+- name: Comuni 11
+  parts:
+  - names: []
+- name: Comuni 12
+  parts:
+  - names: []
+- name: Comuni 13
+  parts:
+  - names: []
+- name: Comuni 14
+  parts:
+  - names: []
+- name: Comuni 15
+  parts:
+  - names: []
+- name: Comuni 16
+  parts:
+  - names: []
+- name: Comuni 17
+  parts:
+  - names: []
+- name: Comuni 18
+  parts:
+  - names: []
+- name: Comuni 19
+  parts:
+  - names: []
+- name: Comuni 20
+  parts:
+  - names: []
+- name: Comuni 21
+  parts:
+  - names: []
+- name: Comuni 22
+  parts:
+  - names: []
+- name: Comuni 23
+  parts:
+  - names: []
+- name: Comuni 24
+  parts:
+  - names: []
+- name: Comuni 25
+  parts:
+  - names: []
+- name: Comuni 26
+  parts:
+  - names: []
+- name: Comuni 27
+  parts:
+  - names: []
+- name: Comuni 28
+  parts:
+  - names: []
+- name: Comuni 29
+  parts:
+  - names: []
+- name: Comuni 30
+  parts:
+  - names: []
+- name: Comuni 31
   parts:
   - names: []
