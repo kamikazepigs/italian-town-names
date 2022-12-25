@@ -455,7 +455,7 @@ mainset:
   - name: Ancarano
     probability: 2
   - name: Ancona
-    probability: 2
+    probability: 8
   - name: Andali
     probability: 2
   - name: Andalo
@@ -477,7 +477,7 @@ mainset:
   - name: Andretta
     probability: 2
   - name: Andria
-    probability: 2
+    probability: 4
   - name: Andriano
     probability: 2
   - name: Anela
@@ -753,7 +753,7 @@ mainset:
   - name: Asciano
     probability: 2
   - name: Ascoli Piceno
-    probability: 2
+    probability: 4
   - name: Ascoli Satriano
     probability: 2
   - name: Ascrea
@@ -781,7 +781,7 @@ mainset:
   - name: Assoro
     probability: 2
   - name: Asti
-    probability: 2
+    probability: 4
   - name: Asuni
     probability: 2
   - name: Ateleta
@@ -1083,7 +1083,7 @@ mainset:
   - name: Barlassina
     probability: 2
   - name: Barletta
-    probability: 2
+    probability: 4
   - name: Barni
     probability: 2
   - name: Barolo
@@ -1263,7 +1263,7 @@ mainset:
   - name: Benevello
     probability: 2
   - name: Benevento
-    probability: 2
+    probability: 4
   - name: Benna
     probability: 2
   - name: Bentivoglio
@@ -1377,7 +1377,7 @@ mainset:
   - name: Bidoni'
     probability: 2
   - name: Biella
-    probability: 2
+    probability: 4
   - name: Bienno
     probability: 2
   - name: Bieno
@@ -1839,7 +1839,7 @@ mainset:
   - name: Brignano Frascata
     probability: 2
   - name: Brindisi
-    probability: 2
+    probability: 4
   - name: Brindisi Montagna
     probability: 2
   - name: Brinzio
@@ -2063,7 +2063,7 @@ mainset:
   - name: Cagli
     probability: 2
   - name: Cagliari
-    probability: 2
+    probability: 8
   - name: Caglio
     probability: 2
   - name: Cagnano Amiterno
@@ -2179,7 +2179,7 @@ mainset:
   - name: Caltagirone
     probability: 2
   - name: Caltanissetta
-    probability: 2
+    probability: 4
   - name: Caltavuturo
     probability: 2
   - name: Caltignaga
@@ -3619,7 +3619,7 @@ mainset:
   - name: Catania
     probability: 4
   - name: Catanzaro
-    probability: 2
+    probability: 8
   - name: Catenanuova
     probability: 2
   - name: Catignano
@@ -3967,7 +3967,7 @@ mainset:
   - name: Cesate
     probability: 2
   - name: Cesena
-    probability: 2
+    probability: 4
   - name: Cesenatico
     probability: 2
   - name: Cesinali
@@ -4507,7 +4507,7 @@ mainset:
   - name: Commezzadura
     probability: 2
   - name: Como
-    probability: 2
+    probability: 4
   - name: Compiano
     probability: 2
   - name: Comun Nuovo
@@ -4827,7 +4827,7 @@ mainset:
   - name: Cremolino
     probability: 2
   - name: Cremona
-    probability: 2
+    probability: 4
   - name: Cremosano
     probability: 2
   - name: Crescentino
@@ -4871,7 +4871,7 @@ mainset:
   - name: Crosio della Valle
     probability: 2
   - name: Crotone
-    probability: 2
+    probability: 4
   - name: Crotta d'Adda
     probability: 2
   - name: Crova
@@ -5383,7 +5383,7 @@ mainset:
   - name: Fermignano
     probability: 2
   - name: Fermo
-    probability: 2
+    probability: 4
   - name: Ferno
     probability: 2
   - name: Feroleto Antico
@@ -5635,7 +5635,7 @@ mainset:
   - name: Forio
     probability: 2
   - name: Forli'
-    probability: 2
+    probability: 4
   - name: Forlì del Sannio
     probability: 2
   - name: Forlimpopoli
@@ -6061,7 +6061,7 @@ mainset:
   - name: Genoni
     probability: 2
   - name: Genova
-    probability: 2
+    probability: 8
   - name: Genuri
     probability: 2
   - name: Genzano di Lucania
@@ -6271,7 +6271,7 @@ mainset:
   - name: Goriano Sicoli
     probability: 2
   - name: Gorizia
-    probability: 2
+    probability: 4
   - name: Gorla Maggiore
     probability: 2
   - name: Gorla Minore
@@ -6557,7 +6557,7 @@ mainset:
   - name: Imola
     probability: 2
   - name: Imperia
-    probability: 2
+    probability: 4
   - name: Impruneta
     probability: 2
   - name: Inarzo
@@ -6613,7 +6613,7 @@ mainset:
   - name: Isera
     probability: 2
   - name: Isernia
-    probability: 2
+    probability: 4
   - name: Isili
     probability: 2
   - name: Isnello
@@ -6719,7 +6719,7 @@ mainset:
   - name: La Salle
     probability: 2
   - name: La Spezia
-    probability: 2
+    probability: 4
   - name: La Thuile
     probability: 2
   - name: La Valle
@@ -6851,7 +6851,7 @@ mainset:
   - name: Latiano
     probability: 2
   - name: Latina
-    probability: 2
+    probability: 4
   - name: Latisana
     probability: 2
   - name: Latronico
@@ -6905,7 +6905,7 @@ mainset:
   - name: Lecce nei Marsi
     probability: 2
   - name: Lecco
-    probability: 2
+    probability: 4
   - name: Ledro
     probability: 2
   - name: Leffe
@@ -7075,7 +7075,7 @@ mainset:
   - name: Livo
     probability: 2
   - name: Livorno
-    probability: 2
+    probability: 4
   - name: Livorno Ferraris
     probability: 2
   - name: Livraga
@@ -7109,7 +7109,7 @@ mainset:
   - name: Lodè
     probability: 2
   - name: Lodi
-    probability: 2
+    probability: 4
   - name: Lodi Vecchio
     probability: 2
   - name: Lodine
@@ -7209,7 +7209,7 @@ mainset:
   - name: Lubriano
     probability: 2
   - name: Lucca
-    probability: 2
+    probability: 4
   - name: Lucca Sicula
     probability: 2
   - name: Lucera
@@ -7497,7 +7497,7 @@ mainset:
   - name: Mantello
     probability: 2
   - name: Mantova
-    probability: 2
+    probability: 4
   - name: Manzano
     probability: 2
   - name: Manziana
@@ -7705,7 +7705,7 @@ mainset:
   - name: Masone
     probability: 2
   - name: Massa
-    probability: 2
+    probability: 4
   - name: Massa d'Albe
     probability: 2
   - name: Massa di Somma
@@ -7973,7 +7973,7 @@ mainset:
   - name: Mignano Monte Lungo
     probability: 2
   - name: Milano
-    probability: 2
+    probability: 8
   - name: Milazzo
     probability: 2
   - name: Milena
@@ -8753,7 +8753,7 @@ mainset:
   - name: Monvalle
     probability: 2
   - name: Monza
-    probability: 2
+    probability: 4
   - name: Monzambano
     probability: 2
   - name: Monzuno
@@ -8957,7 +8957,7 @@ mainset:
   - name: Nanto
     probability: 2
   - name: Napoli
-    probability: 2
+    probability: 8
   - name: Narbolia
     probability: 2
   - name: Narcao
@@ -9137,7 +9137,7 @@ mainset:
   - name: Novalesa
     probability: 2
   - name: Novara
-    probability: 2
+    probability: 4
   - name: Novara di Sicilia
     probability: 2
   - name: Novate Mezzola
@@ -9579,7 +9579,7 @@ mainset:
   - name: Paderno Ponchielli
     probability: 2
   - name: Padova
-    probability: 2
+    probability: 4
   - name: Padria
     probability: 2
   - name: Padru
@@ -9971,7 +9971,7 @@ mainset:
   - name: Pescantina
     probability: 2
   - name: Pescara
-    probability: 2
+    probability: 4
   - name: Pescarolo ed Uniti
     probability: 2
   - name: Pescasseroli
@@ -10321,7 +10321,7 @@ mainset:
   - name: Piraino
     probability: 2
   - name: Pisa
-    probability: 2
+    probability: 4
   - name: Pisano
     probability: 2
   - name: Piscina
@@ -10337,7 +10337,7 @@ mainset:
   - name: Pisticci
     probability: 2
   - name: Pistoia
-    probability: 2
+    probability: 4
   - name: Pitigliano
     probability: 2
   - name: Piubega
@@ -10633,7 +10633,7 @@ mainset:
   - name: Porcia
     probability: 2
   - name: Pordenone
-    probability: 2
+    probability: 4
   - name: Porlezza
     probability: 2
   - name: Pornassio
@@ -10809,7 +10809,7 @@ mainset:
   - name: Pratiglione
     probability: 2
   - name: Prato
-    probability: 2
+    probability: 4
   - name: Prato allo Stelvio
     probability: 2
   - name: Prato Carnico
@@ -11031,7 +11031,7 @@ mainset:
   - name: Ragogna
     probability: 2
   - name: Ragusa
-    probability: 2
+    probability: 4
   - name: Raiano
     probability: 2
   - name: Ramacca
@@ -11075,7 +11075,7 @@ mainset:
   - name: Ravello
     probability: 2
   - name: Ravenna
-    probability: 2
+    probability: 4
   - name: Raveo
     probability: 2
   - name: Raviscanina
@@ -11114,8 +11114,8 @@ mainset:
     probability: 2
   - name: Reggio Calabria
     probability: 4
-  - name: Reggio nell'Emilia
-    probability: 2
+  - name: Reggio Emilia
+    probability: 4
   - name: Reggiolo
     probability: 2
   - name: Reino
@@ -11211,7 +11211,7 @@ mainset:
   - name: Rimella
     probability: 2
   - name: Rimini
-    probability: 2
+    probability: 4
   - name: Rio di Pusteria
     probability: 2
   - name: Rio
@@ -11727,7 +11727,7 @@ mainset:
   - name: Roviano
     probability: 2
   - name: Rovigo
-    probability: 2
+    probability: 4
   - name: Rovito
     probability: 2
   - name: Rovolon
@@ -13081,7 +13081,7 @@ mainset:
   - name: Savoia di Lucania
     probability: 2
   - name: Savona
-    probability: 2
+    probability: 4
   - name: Scafa
     probability: 2
   - name: Scafati
@@ -13523,7 +13523,7 @@ mainset:
   - name: Sinopoli
     probability: 2
   - name: Siracusa
-    probability: 2
+    probability: 4
   - name: Sirignano
     probability: 2
   - name: Siris
@@ -13981,7 +13981,7 @@ mainset:
   - name: Tarantasca
     probability: 2
   - name: Taranto
-    probability: 2
+    probability: 4
   - name: Tarcento
     probability: 2
   - name: Tarquinia
@@ -14061,7 +14061,7 @@ mainset:
   - name: Teora
     probability: 2
   - name: Teramo
-    probability: 2
+    probability: 4
   - name: Terdobbiate
     probability: 2
   - name: Terelle
@@ -14089,7 +14089,7 @@ mainset:
   - name: Ternengo
     probability: 2
   - name: Terni
-    probability: 2
+    probability: 4
   - name: Terno d'Isola
     probability: 2
   - name: Terracina
@@ -14433,11 +14433,11 @@ mainset:
   - name: Trana
     probability: 2
   - name: Trani
-    probability: 2
+    probability: 4
   - name: Traona
     probability: 2
   - name: Trapani
-    probability: 2
+    probability: 4
   - name: Trappeto
     probability: 2
   - name: Trarego Viggiona
@@ -14577,7 +14577,7 @@ mainset:
   - name: Triei
     probability: 2
   - name: Trieste
-    probability: 2
+    probability: 8
   - name: Triggiano
     probability: 2
   - name: Trigolo
@@ -15017,7 +15017,7 @@ mainset:
   - name: Varenna
     probability: 2
   - name: Varese
-    probability: 2
+    probability: 4
   - name: Varese Ligure
     probability: 2
   - name: Varisella
@@ -15121,7 +15121,7 @@ mainset:
   - name: Verano Brianza
     probability: 2
   - name: Verbania
-    probability: 2
+    probability: 4
   - name: Verbicaro
     probability: 2
   - name: Vercana
@@ -15129,7 +15129,7 @@ mainset:
   - name: Verceia
     probability: 2
   - name: Vercelli
-    probability: 2
+    probability: 4
   - name: Vercurago
     probability: 2
   - name: Verdellino
@@ -15247,7 +15247,7 @@ mainset:
   - name: Viarigi
     probability: 2
   - name: Vibo Valentia
-    probability: 2
+    probability: 4
   - name: Vibonati
     probability: 2
   - name: Vicalvi
