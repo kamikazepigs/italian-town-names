@@ -7,7 +7,13 @@ source: https://www.tuttitalia.it/
 subsets:
 - name: Capoluoghi di Regione
   parts:
-  - names: []
+  - names:
+    - name: AAAAA
+      probability: 1
+    - name: AAAAB
+      probability: 1
+    - name: AAABB
+      probability: 1
 - name: Provincie
   parts:
   - names: []
