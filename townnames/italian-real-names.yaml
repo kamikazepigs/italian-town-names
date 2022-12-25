@@ -1,7 +1,21 @@
 available: true
 id: 0
 mainset:
-- names: []
+- names:
+  - name: '@Capoluoghi di Regione'
+    probability: 8
+  - name: '@Provincie'
+    probability: 4
+  - name: '@Comuni 1'
+    probability: 2
+  - name: '@Comuni 2'
+    probability: 2
+  - name: '@Comuni 3'
+    probability: 2
+  - name: '@Comuni 4'
+    probability: 2
+  - name: '@Comuni 5'
+    probability: 2
 name: Italian (real names)
 source: https://www.tuttitalia.it/
 subsets:
