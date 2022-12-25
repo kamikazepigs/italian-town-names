@@ -17,57 +17,57 @@ mainset:
   - name: '@Comuni 5'
     probability: 2
   - name: '@Comuni 6'
-    probability: 1
+    probability: 2
   - name: '@Comuni 7'
-    probability: 1
+    probability: 2
   - name: '@Comuni 8'
-    probability: 1
+    probability: 2
   - name: '@Comuni 9'
-    probability: 1
+    probability: 2
   - name: '@Comuni 10'
-    probability: 1
+    probability: 2
   - name: '@Comuni 11'
-    probability: 1
+    probability: 2
   - name: '@Comuni 12'
-    probability: 1
+    probability: 2
   - name: '@Comuni 13'
-    probability: 1
+    probability: 2
   - name: '@Comuni 14'
-    probability: 1
+    probability: 2
   - name: '@Comuni 15'
-    probability: 1
+    probability: 2
   - name: '@Comuni 16'
-    probability: 1
+    probability: 2
   - name: '@Comuni 17'
-    probability: 1
+    probability: 2
   - name: '@Comuni 18'
-    probability: 1
+    probability: 2
   - name: '@Comuni 19'
-    probability: 1
+    probability: 2
   - name: '@Comuni 20'
-    probability: 1
+    probability: 2
   - name: '@Comuni 21'
-    probability: 1
+    probability: 2
   - name: '@Comuni 22'
-    probability: 1
+    probability: 2
   - name: '@Comuni 23'
-    probability: 1
+    probability: 2
   - name: '@Comuni 24'
-    probability: 1
+    probability: 2
   - name: '@Comuni 25'
-    probability: 1
+    probability: 2
   - name: '@Comuni 26'
-    probability: 1
+    probability: 2
   - name: '@Comuni 27'
-    probability: 1
+    probability: 2
   - name: '@Comuni 28'
-    probability: 1
+    probability: 2
   - name: '@Comuni 29'
-    probability: 1
+    probability: 2
   - name: '@Comuni 30'
-    probability: 1
+    probability: 2
   - name: '@Comuni 31'
-    probability: 1
+    probability: 2
 name: Italian (real names)
 source: https://www.tuttitalia.it/
 subsets:
