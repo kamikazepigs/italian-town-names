@@ -23,10 +23,44 @@ subsets:
   parts:
   - names:
     - name: Ancona
-      probability: 8
-    - name: AAAAB
       probability: 1
-    - name: AAABB
+    - name: Aosta
+      probability: 1
+    - name: Bari
+      probability: 1
+    - name: Bologna
+      probability: 1
+    - name: Cagliari
+      probability: 1
+    - name: Campobasso
+      probability: 1
+    - name: Catanzaro
+      probability: 1
+    - name: Firenze
+      probability: 1
+    - name: Genova
+      probability: 1
+    - name: L'Aquila
+      probability: 1
+    - name: Milano
+      probability: 1
+    - name: Napoli
+      probability: 1
+    - name: Palermo
+      probability: 1
+    - name: Perugia
+      probability: 1
+    - name: Potenza
+      probability: 1
+    - name: Roma
+      probability: 1
+    - name: Torino
+      probability: 1
+    - name: Trento
+      probability: 1
+    - name: Trieste
+      probability: 1
+    - name: Venezia
       probability: 1
 - name: Provincie
   parts:
