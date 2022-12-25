@@ -878,6 +878,5665 @@ mainset:
     probability: 2
   - name: Azzone
     probability: 2
+  - name: Baceno
+    probability: 2
+  - name: Bacoli
+    probability: 2
+  - name: Badalucco
+    probability: 2
+  - name: Badesi
+    probability: 2
+  - name: Badia
+    probability: 2
+  - name: Badia Calavena
+    probability: 2
+  - name: Badia Pavese
+    probability: 2
+  - name: Badia Polesine
+    probability: 2
+  - name: Badia Tedalda
+    probability: 2
+  - name: Badolato
+    probability: 2
+  - name: Bagaladi
+    probability: 2
+  - name: Bagheria
+    probability: 2
+  - name: Bagnacavallo
+    probability: 2
+  - name: Bagnara Calabra
+    probability: 2
+  - name: Bagnara di Romagna
+    probability: 2
+  - name: Bagnaria
+    probability: 2
+  - name: Bagnaria Arsa
+    probability: 2
+  - name: Bagnasco
+    probability: 2
+  - name: Bagnatica
+    probability: 2
+  - name: Bagni di Lucca
+    probability: 2
+  - name: Bagno a Ripoli
+    probability: 2
+  - name: Bagno di Romagna
+    probability: 2
+  - name: Bagnoli del Trigno
+    probability: 2
+  - name: Bagnoli di Sopra
+    probability: 2
+  - name: Bagnoli Irpino
+    probability: 2
+  - name: Bagnolo Cremasco
+    probability: 2
+  - name: Bagnolo del Salento
+    probability: 2
+  - name: Bagnolo di Po
+    probability: 2
+  - name: Bagnolo in Piano
+    probability: 2
+  - name: Bagnolo Mella
+    probability: 2
+  - name: Bagnolo Piemonte
+    probability: 2
+  - name: Bagnolo San Vito
+    probability: 2
+  - name: Bagnone
+    probability: 2
+  - name: Bagnoregio
+    probability: 2
+  - name: Bagolino
+    probability: 2
+  - name: Baia e Latina
+    probability: 2
+  - name: Baiano
+    probability: 2
+  - name: Bairo
+    probability: 2
+  - name: Baiso
+    probability: 2
+  - name: Bajardo
+    probability: 2
+  - name: Balangero
+    probability: 2
+  - name: Baldichieri d'Asti
+    probability: 2
+  - name: Baldissero Canavese
+    probability: 2
+  - name: Baldissero d'Alba
+    probability: 2
+  - name: Baldissero Torinese
+    probability: 2
+  - name: Balestrate
+    probability: 2
+  - name: Balestrino
+    probability: 2
+  - name: Ballabio
+    probability: 2
+  - name: Ballao
+    probability: 2
+  - name: Balme
+    probability: 2
+  - name: Balmuccia
+    probability: 2
+  - name: Balocco
+    probability: 2
+  - name: Balsorano
+    probability: 2
+  - name: Balvano
+    probability: 2
+  - name: Balzola
+    probability: 2
+  - name: Banari
+    probability: 2
+  - name: Banchette
+    probability: 2
+  - name: Bannio Anzino
+    probability: 2
+  - name: Banzi
+    probability: 2
+  - name: Baone
+    probability: 2
+  - name: Baradili
+    probability: 2
+  - name: Baragiano
+    probability: 2
+  - name: Baranello
+    probability: 2
+  - name: Barano d'Ischia
+    probability: 2
+  - name: Baranzate
+    probability: 2
+  - name: Barasso
+    probability: 2
+  - name: Baratili San Pietro
+    probability: 2
+  - name: Barbania
+    probability: 2
+  - name: Barbara
+    probability: 2
+  - name: Barbarano Mossano
+    probability: 2
+  - name: Barbarano Romano
+    probability: 2
+  - name: Barbaresco
+    probability: 2
+  - name: Barbariga
+    probability: 2
+  - name: Barbata
+    probability: 2
+  - name: Barberino di Mugello
+    probability: 2
+  - name: Barberino Tavarnelle
+    probability: 2
+  - name: Barbianello
+    probability: 2
+  - name: Barbiano
+    probability: 2
+  - name: Barbona
+    probability: 2
+  - name: Barcellona Pozzo di Gotto
+    probability: 2
+  - name: Barcis
+    probability: 2
+  - name: Bard
+    probability: 2
+  - name: Bardello
+    probability: 2
+  - name: Bardi
+    probability: 2
+  - name: Bardineto
+    probability: 2
+  - name: Bardolino
+    probability: 2
+  - name: Bardonecchia
+    probability: 2
+  - name: Bareggio
+    probability: 2
+  - name: Barengo
+    probability: 2
+  - name: Baressa
+    probability: 2
+  - name: Barete
+    probability: 2
+  - name: Barga
+    probability: 2
+  - name: Bargagli
+    probability: 2
+  - name: Barge
+    probability: 2
+  - name: Barghe
+    probability: 2
+  - name: Bari
+    probability: 2
+  - name: Bari Sardo
+    probability: 2
+  - name: Bariano
+    probability: 2
+  - name: Baricella
+    probability: 2
+  - name: Barile
+    probability: 2
+  - name: Barisciano
+    probability: 2
+  - name: Barlassina
+    probability: 2
+  - name: Barletta
+    probability: 2
+  - name: Barni
+    probability: 2
+  - name: Barolo
+    probability: 2
+  - name: Barone Canavese
+    probability: 2
+  - name: Baronissi
+    probability: 2
+  - name: Barrafranca
+    probability: 2
+  - name: Barrali
+    probability: 2
+  - name: Barrea
+    probability: 2
+  - name: Barumini
+    probability: 2
+  - name: Barzago
+    probability: 2
+  - name: Barzana
+    probability: 2
+  - name: Barzano'
+    probability: 2
+  - name: Barzio
+    probability: 2
+  - name: Basaluzzo
+    probability: 2
+  - name: Bascape'
+    probability: 2
+  - name: Baschi
+    probability: 2
+  - name: Basciano
+    probability: 2
+  - name: Baselga di Pine'
+    probability: 2
+  - name: Baselice
+    probability: 2
+  - name: Basiano
+    probability: 2
+  - name: Basico'
+    probability: 2
+  - name: Basiglio
+    probability: 2
+  - name: Basiliano
+    probability: 2
+  - name: Bassano Bresciano
+    probability: 2
+  - name: Bassano del Grappa
+    probability: 2
+  - name: Bassano in Teverina
+    probability: 2
+  - name: Bassano Romano
+    probability: 2
+  - name: Bassiano
+    probability: 2
+  - name: Bassignana
+    probability: 2
+  - name: Bastia Mondovi'
+    probability: 2
+  - name: Bastia Umbra
+    probability: 2
+  - name: Bastida Pancarana
+    probability: 2
+  - name: Bastiglia
+    probability: 2
+  - name: Battaglia Terme
+    probability: 2
+  - name: Battifollo
+    probability: 2
+  - name: Battipaglia
+    probability: 2
+  - name: Battuda
+    probability: 2
+  - name: Baucina
+    probability: 2
+  - name: Bauladu
+    probability: 2
+  - name: Baunei
+    probability: 2
+  - name: Baveno
+    probability: 2
+  - name: Bedero Valcuvia
+    probability: 2
+  - name: Bedizzole
+    probability: 2
+  - name: Bedollo
+    probability: 2
+  - name: Bedonia
+    probability: 2
+  - name: Bedulita
+    probability: 2
+  - name: Bee
+    probability: 2
+  - name: Beinasco
+    probability: 2
+  - name: Beinette
+    probability: 2
+  - name: Belcastro
+    probability: 2
+  - name: Belfiore
+    probability: 2
+  - name: Belforte all'Isauro
+    probability: 2
+  - name: Belforte del Chienti
+    probability: 2
+  - name: Belforte Monferrato
+    probability: 2
+  - name: Belgioioso
+    probability: 2
+  - name: Belgirate
+    probability: 2
+  - name: Bella
+    probability: 2
+  - name: Bellagio
+    probability: 2
+  - name: Bellano
+    probability: 2
+  - name: Bellante
+    probability: 2
+  - name: Bellaria-Igea Marina
+    probability: 2
+  - name: Bellegra
+    probability: 2
+  - name: Bellino
+    probability: 2
+  - name: Bellinzago Lombardo
+    probability: 2
+  - name: Bellinzago Novarese
+    probability: 2
+  - name: Bellizzi
+    probability: 2
+  - name: Bellona
+    probability: 2
+  - name: Bellosguardo
+    probability: 2
+  - name: Belluno
+    probability: 2
+  - name: Bellusco
+    probability: 2
+  - name: Belmonte Calabro
+    probability: 2
+  - name: Belmonte Castello
+    probability: 2
+  - name: Belmonte del Sannio
+    probability: 2
+  - name: Belmonte in Sabina
+    probability: 2
+  - name: Belmonte Mezzagno
+    probability: 2
+  - name: Belmonte Piceno
+    probability: 2
+  - name: Belpasso
+    probability: 2
+  - name: Belsito
+    probability: 2
+  - name: Belvedere di Spinello
+    probability: 2
+  - name: Belvedere Langhe
+    probability: 2
+  - name: Belvedere Marittimo
+    probability: 2
+  - name: Belvedere Ostrense
+    probability: 2
+  - name: Belveglio
+    probability: 2
+  - name: Belvi'
+    probability: 2
+  - name: Bema
+    probability: 2
+  - name: Bene Lario
+    probability: 2
+  - name: Bene Vagienna
+    probability: 2
+  - name: Benestare
+    probability: 2
+  - name: Benetutti
+    probability: 2
+  - name: Benevello
+    probability: 2
+  - name: Benevento
+    probability: 2
+  - name: Benna
+    probability: 2
+  - name: Bentivoglio
+    probability: 2
+  - name: Berbenno
+    probability: 2
+  - name: Berbenno di Valtellina
+    probability: 2
+  - name: Berceto
+    probability: 2
+  - name: Berchidda
+    probability: 2
+  - name: Beregazzo con Figliaro
+    probability: 2
+  - name: Bereguardo
+    probability: 2
+  - name: Bergamasco
+    probability: 2
+  - name: Bergamo
+    probability: 2
+  - name: Bergantino
+    probability: 2
+  - name: Bergeggi
+    probability: 2
+  - name: Bergolo
+    probability: 2
+  - name: Berlingo
+    probability: 2
+  - name: Bernalda
+    probability: 2
+  - name: Bernareggio
+    probability: 2
+  - name: Bernate Ticino
+    probability: 2
+  - name: Bernezzo
+    probability: 2
+  - name: Bertinoro
+    probability: 2
+  - name: Bertiolo
+    probability: 2
+  - name: Bertonico
+    probability: 2
+  - name: Berzano di San Pietro
+    probability: 2
+  - name: Berzano di Tortona
+    probability: 2
+  - name: Berzo Demo
+    probability: 2
+  - name: Berzo Inferiore
+    probability: 2
+  - name: Berzo San Fermo
+    probability: 2
+  - name: Besana in Brianza
+    probability: 2
+  - name: Besano
+    probability: 2
+  - name: Besate
+    probability: 2
+  - name: Besenello
+    probability: 2
+  - name: Besenzone
+    probability: 2
+  - name: Besnate
+    probability: 2
+  - name: Besozzo
+    probability: 2
+  - name: Bessude
+    probability: 2
+  - name: Bettola
+    probability: 2
+  - name: Bettona
+    probability: 2
+  - name: Beura-Cardezza
+    probability: 2
+  - name: Bevagna
+    probability: 2
+  - name: Beverino
+    probability: 2
+  - name: Bevilacqua
+    probability: 2
+  - name: Biancavilla
+    probability: 2
+  - name: Bianchi
+    probability: 2
+  - name: Bianco
+    probability: 2
+  - name: Biandrate
+    probability: 2
+  - name: Biandronno
+    probability: 2
+  - name: Bianzano
+    probability: 2
+  - name: Bianze'
+    probability: 2
+  - name: Bianzone
+    probability: 2
+  - name: Biassono
+    probability: 2
+  - name: Bibbiano
+    probability: 2
+  - name: Bibbiena
+    probability: 2
+  - name: Bibbona
+    probability: 2
+  - name: Bibiana
+    probability: 2
+  - name: Biccari
+    probability: 2
+  - name: Bicinicco
+    probability: 2
+  - name: Bidoni'
+    probability: 2
+  - name: Biella
+    probability: 2
+  - name: Bienno
+    probability: 2
+  - name: Bieno
+    probability: 2
+  - name: Bientina
+    probability: 2
+  - name: Binago
+    probability: 2
+  - name: Binasco
+    probability: 2
+  - name: Binetto
+    probability: 2
+  - name: Bioglio
+    probability: 2
+  - name: Bionaz
+    probability: 2
+  - name: Bione
+    probability: 2
+  - name: Birori
+    probability: 2
+  - name: Bisaccia
+    probability: 2
+  - name: Bisacquino
+    probability: 2
+  - name: Bisceglie
+    probability: 2
+  - name: Bisegna
+    probability: 2
+  - name: Bisenti
+    probability: 2
+  - name: Bisignano
+    probability: 2
+  - name: Bistagno
+    probability: 2
+  - name: Bisuschio
+    probability: 2
+  - name: Bitetto
+    probability: 2
+  - name: Bitonto
+    probability: 2
+  - name: Bitritto
+    probability: 2
+  - name: Bitti
+    probability: 2
+  - name: Bivona
+    probability: 2
+  - name: Bivongi
+    probability: 2
+  - name: Bizzarone
+    probability: 2
+  - name: Bleggio Superiore
+    probability: 2
+  - name: Blello
+    probability: 2
+  - name: Blera
+    probability: 2
+  - name: Blessagno
+    probability: 2
+  - name: Blevio
+    probability: 2
+  - name: Blufi
+    probability: 2
+  - name: Boara Pisani
+    probability: 2
+  - name: Bobbio
+    probability: 2
+  - name: Bobbio Pellice
+    probability: 2
+  - name: Boca
+    probability: 2
+  - name: Bocchigliero
+    probability: 2
+  - name: Boccioleto
+    probability: 2
+  - name: Bocenago
+    probability: 2
+  - name: Bodio Lomnago
+    probability: 2
+  - name: Boffalora d'Adda
+    probability: 2
+  - name: Boffalora sopra Ticino
+    probability: 2
+  - name: Bogliasco
+    probability: 2
+  - name: Bognanco
+    probability: 2
+  - name: Bogogno
+    probability: 2
+  - name: Boissano
+    probability: 2
+  - name: Bojano
+    probability: 2
+  - name: Bolano
+    probability: 2
+  - name: Bolgare
+    probability: 2
+  - name: Bollate
+    probability: 2
+  - name: Bollengo
+    probability: 2
+  - name: Bologna
+    probability: 2
+  - name: Bolognano
+    probability: 2
+  - name: Bolognetta
+    probability: 2
+  - name: Bolognola
+    probability: 2
+  - name: Bolotana
+    probability: 2
+  - name: Bolsena
+    probability: 2
+  - name: Boltiere
+    probability: 2
+  - name: Bolzano
+    probability: 2
+  - name: Bolzano Novarese
+    probability: 2
+  - name: Bolzano Vicentino
+    probability: 2
+  - name: Bomarzo
+    probability: 2
+  - name: Bomba
+    probability: 2
+  - name: Bompensiere
+    probability: 2
+  - name: Bompietro
+    probability: 2
+  - name: Bomporto
+    probability: 2
+  - name: Bonarcado
+    probability: 2
+  - name: Bonassola
+    probability: 2
+  - name: Bonate Sopra
+    probability: 2
+  - name: Bonate Sotto
+    probability: 2
+  - name: Bonavigo
+    probability: 2
+  - name: Bondeno
+    probability: 2
+  - name: Bondone
+    probability: 2
+  - name: Bonea
+    probability: 2
+  - name: Bonefro
+    probability: 2
+  - name: Bonemerse
+    probability: 2
+  - name: Bonifati
+    probability: 2
+  - name: Bonito
+    probability: 2
+  - name: Bonnanaro
+    probability: 2
+  - name: Bono
+    probability: 2
+  - name: Bonorva
+    probability: 2
+  - name: Bonvicino
+    probability: 2
+  - name: Borbona
+    probability: 2
+  - name: Borca di Cadore
+    probability: 2
+  - name: Bordano
+    probability: 2
+  - name: Bordighera
+    probability: 2
+  - name: Bordolano
+    probability: 2
+  - name: Bore
+    probability: 2
+  - name: Boretto
+    probability: 2
+  - name: Borgarello
+    probability: 2
+  - name: Borgaro Torinese
+    probability: 2
+  - name: Borgetto
+    probability: 2
+  - name: Borghetto d'Arroscia
+    probability: 2
+  - name: Borghetto di Borbera
+    probability: 2
+  - name: Borghetto di Vara
+    probability: 2
+  - name: Borghetto Lodigiano
+    probability: 2
+  - name: Borghetto Santo Spirito
+    probability: 2
+  - name: Borghi
+    probability: 2
+  - name: Borgia
+    probability: 2
+  - name: Borgiallo
+    probability: 2
+  - name: Borgio Verezzi
+    probability: 2
+  - name: Borgo a Mozzano
+    probability: 2
+  - name: Borgo Chiese
+    probability: 2
+  - name: Borgo d'Anaunia
+    probability: 2
+  - name: Borgo Lares
+    probability: 2
+  - name: Borgo d'Ale
+    probability: 2
+  - name: Borgo di Terzo
+    probability: 2
+  - name: Borgo Mantovano
+    probability: 2
+  - name: Borgo Pace
+    probability: 2
+  - name: Borgo Priolo
+    probability: 2
+  - name: Borgo San Dalmazzo
+    probability: 2
+  - name: Borgo San Giacomo
+    probability: 2
+  - name: Borgo San Giovanni
+    probability: 2
+  - name: Borgo San Lorenzo
+    probability: 2
+  - name: Borgo San Martino
+    probability: 2
+  - name: Borgo San Siro
+    probability: 2
+  - name: Borgo Ticino
+    probability: 2
+  - name: Borgo Tossignano
+    probability: 2
+  - name: Borgo Val di Taro
+    probability: 2
+  - name: Borgo Valbelluna
+    probability: 2
+  - name: Borgo Valsugana
+    probability: 2
+  - name: Borgo Velino
+    probability: 2
+  - name: Borgo Veneto
+    probability: 2
+  - name: Borgo Vercelli
+    probability: 2
+  - name: Borgo Virgilio
+    probability: 2
+  - name: Borgocarbonara
+    probability: 2
+  - name: Borgofranco d'Ivrea
+    probability: 2
+  - name: Borgolavezzaro
+    probability: 2
+  - name: Borgomale
+    probability: 2
+  - name: Borgomanero
+    probability: 2
+  - name: Borgomaro
+    probability: 2
+  - name: Borgomasino
+    probability: 2
+  - name: Borgomezzavalle
+    probability: 2
+  - name: Borgone Susa
+    probability: 2
+  - name: Borgonovo Val Tidone
+    probability: 2
+  - name: Borgoratto Alessandrino
+    probability: 2
+  - name: Borgoratto Mormorolo
+    probability: 2
+  - name: Borgoricco
+    probability: 2
+  - name: Borgorose
+    probability: 2
+  - name: Borgosatollo
+    probability: 2
+  - name: Borgosesia
+    probability: 2
+  - name: Bormida
+    probability: 2
+  - name: Bormio
+    probability: 2
+  - name: Bornasco
+    probability: 2
+  - name: Borno
+    probability: 2
+  - name: Boroneddu
+    probability: 2
+  - name: Borore
+    probability: 2
+  - name: Borrello
+    probability: 2
+  - name: Borriana
+    probability: 2
+  - name: Borso del Grappa
+    probability: 2
+  - name: Bortigali
+    probability: 2
+  - name: Bortigiadas
+    probability: 2
+  - name: Borutta
+    probability: 2
+  - name: Borzonasca
+    probability: 2
+  - name: Bosa
+    probability: 2
+  - name: Bosaro
+    probability: 2
+  - name: Boschi Sant'Anna
+    probability: 2
+  - name: Bosco Chiesanuova
+    probability: 2
+  - name: Bosco Marengo
+    probability: 2
+  - name: Bosconero
+    probability: 2
+  - name: Boscoreale
+    probability: 2
+  - name: Boscotrecase
+    probability: 2
+  - name: Bosia
+    probability: 2
+  - name: Bosio
+    probability: 2
+  - name: Bosisio Parini
+    probability: 2
+  - name: Bosnasco
+    probability: 2
+  - name: Bossico
+    probability: 2
+  - name: Bossolasco
+    probability: 2
+  - name: Botricello
+    probability: 2
+  - name: Botrugno
+    probability: 2
+  - name: Bottanuco
+    probability: 2
+  - name: Botticino
+    probability: 2
+  - name: Bottidda
+    probability: 2
+  - name: Bova
+    probability: 2
+  - name: Bova Marina
+    probability: 2
+  - name: Bovalino
+    probability: 2
+  - name: Bovegno
+    probability: 2
+  - name: Boves
+    probability: 2
+  - name: Bovezzo
+    probability: 2
+  - name: Boville Ernica
+    probability: 2
+  - name: Bovino
+    probability: 2
+  - name: Bovisio Masciago
+    probability: 2
+  - name: Bovolenta
+    probability: 2
+  - name: Bovolone
+    probability: 2
+  - name: Bozzole
+    probability: 2
+  - name: Bozzolo
+    probability: 2
+  - name: Bra
+    probability: 2
+  - name: Bracca
+    probability: 2
+  - name: Bracciano
+    probability: 2
+  - name: Bracigliano
+    probability: 2
+  - name: Braies
+    probability: 2
+  - name: Brallo di Pregola
+    probability: 2
+  - name: Brancaleone
+    probability: 2
+  - name: Brandico
+    probability: 2
+  - name: Brandizzo
+    probability: 2
+  - name: Branzi
+    probability: 2
+  - name: Braone
+    probability: 2
+  - name: Brebbia
+    probability: 2
+  - name: Breda di Piave
+    probability: 2
+  - name: Bregano
+    probability: 2
+  - name: Breganze
+    probability: 2
+  - name: Bregnano
+    probability: 2
+  - name: Brembate
+    probability: 2
+  - name: Brembate di Sopra
+    probability: 2
+  - name: Brembio
+    probability: 2
+  - name: Breme
+    probability: 2
+  - name: Brendola
+    probability: 2
+  - name: Brenna
+    probability: 2
+  - name: Brennero
+    probability: 2
+  - name: Breno
+    probability: 2
+  - name: Brenta
+    probability: 2
+  - name: Brentino Belluno
+    probability: 2
+  - name: Brentonico
+    probability: 2
+  - name: Brenzone sul Garda
+    probability: 2
+  - name: Brescello
+    probability: 2
+  - name: Brescia
+    probability: 2
+  - name: Bresimo
+    probability: 2
+  - name: Bressana Bottarone
+    probability: 2
+  - name: Bressanone
+    probability: 2
+  - name: Bressanvido
+    probability: 2
+  - name: Bresso
+    probability: 2
+  - name: Brezzo di Bedero
+    probability: 2
+  - name: Briaglia
+    probability: 2
+  - name: Briatico
+    probability: 2
+  - name: Bricherasio
+    probability: 2
+  - name: Brienno
+    probability: 2
+  - name: Brienza
+    probability: 2
+  - name: Briga Alta
+    probability: 2
+  - name: Briga Novarese
+    probability: 2
+  - name: Brignano Gera d'Adda
+    probability: 2
+  - name: Brignano Frascata
+    probability: 2
+  - name: Brindisi
+    probability: 2
+  - name: Brindisi Montagna
+    probability: 2
+  - name: Brinzio
+    probability: 2
+  - name: Briona
+    probability: 2
+  - name: Brione
+    probability: 2
+  - name: Briosco
+    probability: 2
+  - name: Brisighella
+    probability: 2
+  - name: Brissago-Valtravaglia
+    probability: 2
+  - name: Brissogne
+    probability: 2
+  - name: Brittoli
+    probability: 2
+  - name: Brivio
+    probability: 2
+  - name: Broccostella
+    probability: 2
+  - name: Brogliano
+    probability: 2
+  - name: Brognaturo
+    probability: 2
+  - name: Brolo
+    probability: 2
+  - name: Brondello
+    probability: 2
+  - name: Broni
+    probability: 2
+  - name: Bronte
+    probability: 2
+  - name: Bronzolo
+    probability: 2
+  - name: Brossasco
+    probability: 2
+  - name: Brosso
+    probability: 2
+  - name: Brovello-Carpugnino
+    probability: 2
+  - name: Brozolo
+    probability: 2
+  - name: Brugherio
+    probability: 2
+  - name: Brugine
+    probability: 2
+  - name: Brugnato
+    probability: 2
+  - name: Brugnera
+    probability: 2
+  - name: Bruino
+    probability: 2
+  - name: Brumano
+    probability: 2
+  - name: Brunate
+    probability: 2
+  - name: Brunello
+    probability: 2
+  - name: Brunico
+    probability: 2
+  - name: Bruno
+    probability: 2
+  - name: Brusaporto
+    probability: 2
+  - name: Brusasco
+    probability: 2
+  - name: Brusciano
+    probability: 2
+  - name: Brusimpiano
+    probability: 2
+  - name: Brusnengo
+    probability: 2
+  - name: Brusson
+    probability: 2
+  - name: Bruzolo
+    probability: 2
+  - name: Bruzzano Zeffirio
+    probability: 2
+  - name: Bubbiano
+    probability: 2
+  - name: Bubbio
+    probability: 2
+  - name: Buccheri
+    probability: 2
+  - name: Bucchianico
+    probability: 2
+  - name: Bucciano
+    probability: 2
+  - name: Buccinasco
+    probability: 2
+  - name: Buccino
+    probability: 2
+  - name: Bucine
+    probability: 2
+  - name: Budduso'
+    probability: 2
+  - name: Budoia
+    probability: 2
+  - name: Budoni
+    probability: 2
+  - name: Budrio
+    probability: 2
+  - name: Buggerru
+    probability: 2
+  - name: Buggiano
+    probability: 2
+  - name: Buglio in Monte
+    probability: 2
+  - name: Bugnara
+    probability: 2
+  - name: Buguggiate
+    probability: 2
+  - name: Buja
+    probability: 2
+  - name: Bulciago
+    probability: 2
+  - name: Bulgarograsso
+    probability: 2
+  - name: Bultei
+    probability: 2
+  - name: Bulzi
+    probability: 2
+  - name: Buonabitacolo
+    probability: 2
+  - name: Buonalbergo
+    probability: 2
+  - name: Buonconvento
+    probability: 2
+  - name: Buonvicino
+    probability: 2
+  - name: Burago di Molgora
+    probability: 2
+  - name: Burcei
+    probability: 2
+  - name: Burgio
+    probability: 2
+  - name: Burgos
+    probability: 2
+  - name: Buriasco
+    probability: 2
+  - name: Burolo
+    probability: 2
+  - name: Buronzo
+    probability: 2
+  - name: Busachi
+    probability: 2
+  - name: Busalla
+    probability: 2
+  - name: Busano
+    probability: 2
+  - name: Busca
+    probability: 2
+  - name: Buscate
+    probability: 2
+  - name: Buscemi
+    probability: 2
+  - name: Buseto Palizzolo
+    probability: 2
+  - name: Busnago
+    probability: 2
+  - name: Bussero
+    probability: 2
+  - name: Busseto
+    probability: 2
+  - name: Bussi sul Tirino
+    probability: 2
+  - name: Busso
+    probability: 2
+  - name: Bussolengo
+    probability: 2
+  - name: Bussoleno
+    probability: 2
+  - name: Busto Arsizio
+    probability: 2
+  - name: Busto Garolfo
+    probability: 2
+  - name: Butera
+    probability: 2
+  - name: Buti
+    probability: 2
+  - name: Buttapietra
+    probability: 2
+  - name: Buttigliera Alta
+    probability: 2
+  - name: Buttigliera d'Asti
+    probability: 2
+  - name: Buttrio
+    probability: 2
+  - name: Cabella Ligure
+    probability: 2
+  - name: Cabiate
+    probability: 2
+  - name: Cabras
+    probability: 2
+  - name: Caccamo
+    probability: 2
+  - name: Caccuri
+    probability: 2
+  - name: Cadegliano Viconago
+    probability: 2
+  - name: Cadelbosco di Sopra
+    probability: 2
+  - name: Cadeo
+    probability: 2
+  - name: Caderzone Terme
+    probability: 2
+  - name: Cadoneghe
+    probability: 2
+  - name: Cadorago
+    probability: 2
+  - name: Cadrezzate con Osmate
+    probability: 2
+  - name: Caerano di San Marco
+    probability: 2
+  - name: Cafasse
+    probability: 2
+  - name: Caggiano
+    probability: 2
+  - name: Cagli
+    probability: 2
+  - name: Cagliari
+    probability: 2
+  - name: Caglio
+    probability: 2
+  - name: Cagnano Amiterno
+    probability: 2
+  - name: Cagnano Varano
+    probability: 2
+  - name: Caianello
+    probability: 2
+  - name: Caiazzo
+    probability: 2
+  - name: Caines
+    probability: 2
+  - name: Caino
+    probability: 2
+  - name: Caiolo
+    probability: 2
+  - name: Cairano
+    probability: 2
+  - name: Cairate
+    probability: 2
+  - name: Cairo Montenotte
+    probability: 2
+  - name: Caivano
+    probability: 2
+  - name: Calabritto
+    probability: 2
+  - name: Calalzo di Cadore
+    probability: 2
+  - name: Calamandrana
+    probability: 2
+  - name: Calamonaci
+    probability: 2
+  - name: Calangianus
+    probability: 2
+  - name: Calanna
+    probability: 2
+  - name: Calasca-Castiglione
+    probability: 2
+  - name: Calascibetta
+    probability: 2
+  - name: Calascio
+    probability: 2
+  - name: Calasetta
+    probability: 2
+  - name: Calatabiano
+    probability: 2
+  - name: Calatafimi Segesta
+    probability: 2
+  - name: Calcata
+    probability: 2
+  - name: Calceranica al Lago
+    probability: 2
+  - name: Calci
+    probability: 2
+  - name: Calciano
+    probability: 2
+  - name: Calcinaia
+    probability: 2
+  - name: Calcinate
+    probability: 2
+  - name: Calcinato
+    probability: 2
+  - name: Calcio
+    probability: 2
+  - name: Calco
+    probability: 2
+  - name: Caldaro sulla Strada del Vino
+    probability: 2
+  - name: Caldarola
+    probability: 2
+  - name: Calderara di Reno
+    probability: 2
+  - name: Caldes
+    probability: 2
+  - name: Caldiero
+    probability: 2
+  - name: Caldogno
+    probability: 2
+  - name: Caldonazzo
+    probability: 2
+  - name: Calendasco
+    probability: 2
+  - name: Calenzano
+    probability: 2
+  - name: Calestano
+    probability: 2
+  - name: Calice al Cornoviglio
+    probability: 2
+  - name: Calice Ligure
+    probability: 2
+  - name: Calimera
+    probability: 2
+  - name: Calitri
+    probability: 2
+  - name: Calizzano
+    probability: 2
+  - name: Callabiana
+    probability: 2
+  - name: Calliano
+    probability: 2
+  - name: Calliano Monferrato
+    probability: 2
+  - name: Calolziocorte
+    probability: 2
+  - name: Calopezzati
+    probability: 2
+  - name: Calosso
+    probability: 2
+  - name: Caloveto
+    probability: 2
+  - name: Caltabellotta
+    probability: 2
+  - name: Caltagirone
+    probability: 2
+  - name: Caltanissetta
+    probability: 2
+  - name: Caltavuturo
+    probability: 2
+  - name: Caltignaga
+    probability: 2
+  - name: Calto
+    probability: 2
+  - name: Caltrano
+    probability: 2
+  - name: Calusco d'Adda
+    probability: 2
+  - name: Caluso
+    probability: 2
+  - name: Calvagese della Riviera
+    probability: 2
+  - name: Calvanico
+    probability: 2
+  - name: Calvatone
+    probability: 2
+  - name: Calvello
+    probability: 2
+  - name: Calvene
+    probability: 2
+  - name: Calvenzano
+    probability: 2
+  - name: Calvera
+    probability: 2
+  - name: Calvi
+    probability: 2
+  - name: Calvi dell'Umbria
+    probability: 2
+  - name: Calvi Risorta
+    probability: 2
+  - name: Calvignano
+    probability: 2
+  - name: Calvignasco
+    probability: 2
+  - name: Calvisano
+    probability: 2
+  - name: Calvizzano
+    probability: 2
+  - name: Camagna Monferrato
+    probability: 2
+  - name: Camaiore
+    probability: 2
+  - name: Camandona
+    probability: 2
+  - name: Camastra
+    probability: 2
+  - name: Cambiago
+    probability: 2
+  - name: Cambiano
+    probability: 2
+  - name: Cambiasca
+    probability: 2
+  - name: Camburzano
+    probability: 2
+  - name: Camerana
+    probability: 2
+  - name: Camerano
+    probability: 2
+  - name: Camerano Casasco
+    probability: 2
+  - name: Camerata Cornello
+    probability: 2
+  - name: Camerata Nuova
+    probability: 2
+  - name: Camerata Picena
+    probability: 2
+  - name: Cameri
+    probability: 2
+  - name: Camerino
+    probability: 2
+  - name: Camerota
+    probability: 2
+  - name: Camigliano
+    probability: 2
+  - name: Camini
+    probability: 2
+  - name: Camino
+    probability: 2
+  - name: Camino al Tagliamento
+    probability: 2
+  - name: Camisano
+    probability: 2
+  - name: Camisano Vicentino
+    probability: 2
+  - name: Cammarata
+    probability: 2
+  - name: Camogli
+    probability: 2
+  - name: Campagna
+    probability: 2
+  - name: Campagna Lupia
+    probability: 2
+  - name: Campagnano di Roma
+    probability: 2
+  - name: Campagnatico
+    probability: 2
+  - name: Campagnola Cremasca
+    probability: 2
+  - name: Campagnola Emilia
+    probability: 2
+  - name: Campana
+    probability: 2
+  - name: Camparada
+    probability: 2
+  - name: Campegine
+    probability: 2
+  - name: Campello sul Clitunno
+    probability: 2
+  - name: Campertogno
+    probability: 2
+  - name: Campi Bisenzio
+    probability: 2
+  - name: Campi Salentina
+    probability: 2
+  - name: Campiglia Cervo
+    probability: 2
+  - name: Campiglia dei Berici
+    probability: 2
+  - name: Campiglia Marittima
+    probability: 2
+  - name: Campiglione-Fenile
+    probability: 2
+  - name: Campione d'Italia
+    probability: 2
+  - name: Campitello di Fassa
+    probability: 2
+  - name: Campli
+    probability: 2
+  - name: Campo Calabro
+    probability: 2
+  - name: Campo di Giove
+    probability: 2
+  - name: Campo di Trens
+    probability: 2
+  - name: Campo Ligure
+    probability: 2
+  - name: Campo nell'Elba
+    probability: 2
+  - name: Campo San Martino
+    probability: 2
+  - name: Campo Tures
+    probability: 2
+  - name: Campobasso
+    probability: 2
+  - name: Campobello di Licata
+    probability: 2
+  - name: Campobello di Mazara
+    probability: 2
+  - name: Campochiaro
+    probability: 2
+  - name: Campodarsego
+    probability: 2
+  - name: Campodenno
+    probability: 2
+  - name: Campodimele
+    probability: 2
+  - name: Campodipietra
+    probability: 2
+  - name: Campodolcino
+    probability: 2
+  - name: Campodoro
+    probability: 2
+  - name: Campofelice di Fitalia
+    probability: 2
+  - name: Campofelice di Roccella
+    probability: 2
+  - name: Campofilone
+    probability: 2
+  - name: Campofiorito
+    probability: 2
+  - name: Campoformido
+    probability: 2
+  - name: Campofranco
+    probability: 2
+  - name: Campogalliano
+    probability: 2
+  - name: Campolattaro
+    probability: 2
+  - name: Campoli Appennino
+    probability: 2
+  - name: Campoli del Monte Taburno
+    probability: 2
+  - name: Campolieto
+    probability: 2
+  - name: Campolongo Maggiore
+    probability: 2
+  - name: Campolongo Tapogliano
+    probability: 2
+  - name: Campomaggiore
+    probability: 2
+  - name: Campomarino
+    probability: 2
+  - name: Campomorone
+    probability: 2
+  - name: Camponogara
+    probability: 2
+  - name: Campora
+    probability: 2
+  - name: Camporeale
+    probability: 2
+  - name: Camporgiano
+    probability: 2
+  - name: Camporosso
+    probability: 2
+  - name: Camporotondo di Fiastrone
+    probability: 2
+  - name: Camporotondo Etneo
+    probability: 2
+  - name: Camposampiero
+    probability: 2
+  - name: Camposano
+    probability: 2
+  - name: Camposanto
+    probability: 2
+  - name: Campospinoso
+    probability: 2
+  - name: Campotosto
+    probability: 2
+  - name: Camugnano
+    probability: 2
+  - name: Canal San Bovo
+    probability: 2
+  - name: Canale
+    probability: 2
+  - name: Canale d'Agordo
+    probability: 2
+  - name: Canale Monterano
+    probability: 2
+  - name: Canaro
+    probability: 2
+  - name: Canazei
+    probability: 2
+  - name: Cancellara
+    probability: 2
+  - name: Cancello ed Arnone
+    probability: 2
+  - name: Canda
+    probability: 2
+  - name: Candela
+    probability: 2
+  - name: Candelo
+    probability: 2
+  - name: Candia Canavese
+    probability: 2
+  - name: Candia Lomellina
+    probability: 2
+  - name: Candiana
+    probability: 2
+  - name: Candida
+    probability: 2
+  - name: Candidoni
+    probability: 2
+  - name: Candiolo
+    probability: 2
+  - name: Canegrate
+    probability: 2
+  - name: Canelli
+    probability: 2
+  - name: Canepina
+    probability: 2
+  - name: Caneva
+    probability: 2
+  - name: Canicatti'
+    probability: 2
+  - name: Canicattini Bagni
+    probability: 2
+  - name: Canino
+    probability: 2
+  - name: Canischio
+    probability: 2
+  - name: Canistro
+    probability: 2
+  - name: Canna
+    probability: 2
+  - name: Cannalonga
+    probability: 2
+  - name: Cannara
+    probability: 2
+  - name: Cannero Riviera
+    probability: 2
+  - name: Canneto Pavese
+    probability: 2
+  - name: Canneto sull'Oglio
+    probability: 2
+  - name: Cannobio
+    probability: 2
+  - name: Cannole
+    probability: 2
+  - name: Canolo
+    probability: 2
+  - name: Canonica d'Adda
+    probability: 2
+  - name: Canosa di Puglia
+    probability: 2
+  - name: Canosa Sannita
+    probability: 2
+  - name: Canosio
+    probability: 2
+  - name: Canossa
+    probability: 2
+  - name: Cansano
+    probability: 2
+  - name: Cantagallo
+    probability: 2
+  - name: Cantalice
+    probability: 2
+  - name: Cantalupa
+    probability: 2
+  - name: Cantalupo in Sabina
+    probability: 2
+  - name: Cantalupo Ligure
+    probability: 2
+  - name: Cantalupo nel Sannio
+    probability: 2
+  - name: Cantarana
+    probability: 2
+  - name: Cantello
+    probability: 2
+  - name: Canterano
+    probability: 2
+  - name: Cantiano
+    probability: 2
+  - name: Cantoira
+    probability: 2
+  - name: Cantu'
+    probability: 2
+  - name: Canzano
+    probability: 2
+  - name: Canzo
+    probability: 2
+  - name: Caorle
+    probability: 2
+  - name: Caorso
+    probability: 2
+  - name: Capaccio Paestum
+    probability: 2
+  - name: Capaci
+    probability: 2
+  - name: Capalbio
+    probability: 2
+  - name: Capannoli
+    probability: 2
+  - name: Capannori
+    probability: 2
+  - name: Capena
+    probability: 2
+  - name: Capergnanica
+    probability: 2
+  - name: Capestrano
+    probability: 2
+  - name: Capiago Intimiano
+    probability: 2
+  - name: Capistrano
+    probability: 2
+  - name: Capistrello
+    probability: 2
+  - name: Capitignano
+    probability: 2
+  - name: Capizzi
+    probability: 2
+  - name: Capizzone
+    probability: 2
+  - name: Capo d'Orlando
+    probability: 2
+  - name: Capo di Ponte
+    probability: 2
+  - name: Capodimonte
+    probability: 2
+  - name: Capodrise
+    probability: 2
+  - name: Capoliveri
+    probability: 2
+  - name: Capolona
+    probability: 2
+  - name: Caponago
+    probability: 2
+  - name: Caporciano
+    probability: 2
+  - name: Caposele
+    probability: 2
+  - name: Capoterra
+    probability: 2
+  - name: Capovalle
+    probability: 2
+  - name: Cappadocia
+    probability: 2
+  - name: Cappella Cantone
+    probability: 2
+  - name: Cappella de' Picenardi
+    probability: 2
+  - name: Cappella Maggiore
+    probability: 2
+  - name: Cappelle sul Tavo
+    probability: 2
+  - name: Capracotta
+    probability: 2
+  - name: Capraia e Limite
+    probability: 2
+  - name: Capraia Isola
+    probability: 2
+  - name: Capralba
+    probability: 2
+  - name: Capranica
+    probability: 2
+  - name: Capranica Prenestina
+    probability: 2
+  - name: Caprarica di Lecce
+    probability: 2
+  - name: Caprarola
+    probability: 2
+  - name: Caprauna
+    probability: 2
+  - name: Caprese Michelangelo
+    probability: 2
+  - name: Caprezzo
+    probability: 2
+  - name: Capri
+    probability: 2
+  - name: Capri Leone
+    probability: 2
+  - name: Capriana
+    probability: 2
+  - name: Capriano del Colle
+    probability: 2
+  - name: Capriata d'Orba
+    probability: 2
+  - name: Capriate San Gervasio
+    probability: 2
+  - name: Capriati a Volturno
+    probability: 2
+  - name: Caprie
+    probability: 2
+  - name: Capriglia Irpina
+    probability: 2
+  - name: Capriglio
+    probability: 2
+  - name: Caprile
+    probability: 2
+  - name: Caprino Bergamasco
+    probability: 2
+  - name: Caprino Veronese
+    probability: 2
+  - name: Capriolo
+    probability: 2
+  - name: Capriva del Friuli
+    probability: 2
+  - name: Capua
+    probability: 2
+  - name: Capurso
+    probability: 2
+  - name: Caraffa del Bianco
+    probability: 2
+  - name: Caraffa di Catanzaro
+    probability: 2
+  - name: Caraglio
+    probability: 2
+  - name: Caramagna Piemonte
+    probability: 2
+  - name: Caramanico Terme
+    probability: 2
+  - name: Carapelle
+    probability: 2
+  - name: Carapelle Calvisio
+    probability: 2
+  - name: Carasco
+    probability: 2
+  - name: Carassai
+    probability: 2
+  - name: Carate Brianza
+    probability: 2
+  - name: Carate Urio
+    probability: 2
+  - name: Caravaggio
+    probability: 2
+  - name: Caravate
+    probability: 2
+  - name: Caravino
+    probability: 2
+  - name: Caravonica
+    probability: 2
+  - name: Carbognano
+    probability: 2
+  - name: Carbonara al Ticino
+    probability: 2
+  - name: Carbonara di Nola
+    probability: 2
+  - name: Carbonara Scrivia
+    probability: 2
+  - name: Carbonate
+    probability: 2
+  - name: Carbone
+    probability: 2
+  - name: Carbonera
+    probability: 2
+  - name: Carbonia
+    probability: 2
+  - name: Carcare
+    probability: 2
+  - name: Carceri
+    probability: 2
+  - name: Carcoforo
+    probability: 2
+  - name: Cardano al Campo
+    probability: 2
+  - name: Carde'
+    probability: 2
+  - name: Cardedu
+    probability: 2
+  - name: Cardeto
+    probability: 2
+  - name: Cardinale
+    probability: 2
+  - name: Cardito
+    probability: 2
+  - name: Careggine
+    probability: 2
+  - name: Carema
+    probability: 2
+  - name: Carenno
+    probability: 2
+  - name: Carentino
+    probability: 2
+  - name: Careri
+    probability: 2
+  - name: Caresana
+    probability: 2
+  - name: Caresanablot
+    probability: 2
+  - name: Carezzano
+    probability: 2
+  - name: Carfizzi
+    probability: 2
+  - name: Cargeghe
+    probability: 2
+  - name: Cariati
+    probability: 2
+  - name: Carife
+    probability: 2
+  - name: Carignano
+    probability: 2
+  - name: Carimate
+    probability: 2
+  - name: Carinaro
+    probability: 2
+  - name: Carini
+    probability: 2
+  - name: Carinola
+    probability: 2
+  - name: Carisio
+    probability: 2
+  - name: Carisolo
+    probability: 2
+  - name: Carlantino
+    probability: 2
+  - name: Carlazzo
+    probability: 2
+  - name: Carlentini
+    probability: 2
+  - name: Carlino
+    probability: 2
+  - name: Carloforte
+    probability: 2
+  - name: Carlopoli
+    probability: 2
+  - name: Carmagnola
+    probability: 2
+  - name: Carmiano
+    probability: 2
+  - name: Carmignano
+    probability: 2
+  - name: Carmignano di Brenta
+    probability: 2
+  - name: Carnago
+    probability: 2
+  - name: Carnate
+    probability: 2
+  - name: Carobbio degli Angeli
+    probability: 2
+  - name: Carolei
+    probability: 2
+  - name: Carona
+    probability: 2
+  - name: Caronia
+    probability: 2
+  - name: Caronno Pertusella
+    probability: 2
+  - name: Caronno Varesino
+    probability: 2
+  - name: Carosino
+    probability: 2
+  - name: Carovigno
+    probability: 2
+  - name: Carovilli
+    probability: 2
+  - name: Carpaneto Piacentino
+    probability: 2
+  - name: Carpanzano
+    probability: 2
+  - name: Carpegna
+    probability: 2
+  - name: Carpenedolo
+    probability: 2
+  - name: Carpeneto
+    probability: 2
+  - name: Carpi
+    probability: 2
+  - name: Carpiano
+    probability: 2
+  - name: Carpignano Salentino
+    probability: 2
+  - name: Carpignano Sesia
+    probability: 2
+  - name: Carpineti
+    probability: 2
+  - name: Carpineto della Nora
+    probability: 2
+  - name: Carpineto Romano
+    probability: 2
+  - name: Carpineto Sinello
+    probability: 2
+  - name: Carpino
+    probability: 2
+  - name: Carpinone
+    probability: 2
+  - name: Carrara
+    probability: 2
+  - name: Carre'
+    probability: 2
+  - name: Carrega Ligure
+    probability: 2
+  - name: Carro
+    probability: 2
+  - name: Carrodano
+    probability: 2
+  - name: Carrosio
+    probability: 2
+  - name: Carru'
+    probability: 2
+  - name: Carsoli
+    probability: 2
+  - name: Cartigliano
+    probability: 2
+  - name: Cartignano
+    probability: 2
+  - name: Cartoceto
+    probability: 2
+  - name: Cartosio
+    probability: 2
+  - name: Cartura
+    probability: 2
+  - name: Carugate
+    probability: 2
+  - name: Carugo
+    probability: 2
+  - name: Carunchio
+    probability: 2
+  - name: Carvico
+    probability: 2
+  - name: Carzano
+    probability: 2
+  - name: Casabona
+    probability: 2
+  - name: Casacalenda
+    probability: 2
+  - name: Casacanditella
+    probability: 2
+  - name: Casagiove
+    probability: 2
+  - name: Casal Cermelli
+    probability: 2
+  - name: Casal di Principe
+    probability: 2
+  - name: Casal Velino
+    probability: 2
+  - name: Casalanguida
+    probability: 2
+  - name: Casalattico
+    probability: 2
+  - name: Casalbeltrame
+    probability: 2
+  - name: Casalbordino
+    probability: 2
+  - name: Casalbore
+    probability: 2
+  - name: Casalborgone
+    probability: 2
+  - name: Casalbuono
+    probability: 2
+  - name: Casalbuttano ed Uniti
+    probability: 2
+  - name: Casalciprano
+    probability: 2
+  - name: Casalduni
+    probability: 2
+  - name: Casale Corte Cerro
+    probability: 2
+  - name: Casale Cremasco-Vidolasco
+    probability: 2
+  - name: Casale di Scodosia
+    probability: 2
+  - name: Casale Litta
+    probability: 2
+  - name: Casale Marittimo
+    probability: 2
+  - name: Casale Monferrato
+    probability: 2
+  - name: Casale sul Sile
+    probability: 2
+  - name: Casalecchio di Reno
+    probability: 2
+  - name: Casaleggio Boiro
+    probability: 2
+  - name: Casaleggio Novara
+    probability: 2
+  - name: Casaleone
+    probability: 2
+  - name: Casaletto Ceredano
+    probability: 2
+  - name: Casaletto di Sopra
+    probability: 2
+  - name: Casaletto Lodigiano
+    probability: 2
+  - name: Casaletto Spartano
+    probability: 2
+  - name: Casaletto Vaprio
+    probability: 2
+  - name: Casalfiumanese
+    probability: 2
+  - name: Casalgrande
+    probability: 2
+  - name: Casalgrasso
+    probability: 2
+  - name: Casali del Manco
+    probability: 2
+  - name: Casalincontrada
+    probability: 2
+  - name: Casalino
+    probability: 2
+  - name: Casalmaggiore
+    probability: 2
+  - name: Casalmaiocco
+    probability: 2
+  - name: Casalmorano
+    probability: 2
+  - name: Casalmoro
+    probability: 2
+  - name: Casalnoceto
+    probability: 2
+  - name: Casalnuovo di Napoli
+    probability: 2
+  - name: Casalnuovo Monterotaro
+    probability: 2
+  - name: Casaloldo
+    probability: 2
+  - name: Casalpusterlengo
+    probability: 2
+  - name: Casalromano
+    probability: 2
+  - name: Casalserugo
+    probability: 2
+  - name: Casaluce
+    probability: 2
+  - name: Casalvecchio di Puglia
+    probability: 2
+  - name: Casalvecchio Siculo
+    probability: 2
+  - name: Casalvieri
+    probability: 2
+  - name: Casalvolone
+    probability: 2
+  - name: Casalzuigno
+    probability: 2
+  - name: Casamarciano
+    probability: 2
+  - name: Casamassima
+    probability: 2
+  - name: Casamicciola Terme
+    probability: 2
+  - name: Casandrino
+    probability: 2
+  - name: Casanova Elvo
+    probability: 2
+  - name: Casanova Lerrone
+    probability: 2
+  - name: Casanova Lonati
+    probability: 2
+  - name: Casape
+    probability: 2
+  - name: Casapesenna
+    probability: 2
+  - name: Casapinta
+    probability: 2
+  - name: Casaprota
+    probability: 2
+  - name: Casapulla
+    probability: 2
+  - name: Casarano
+    probability: 2
+  - name: Casargo
+    probability: 2
+  - name: Casarile
+    probability: 2
+  - name: Casarsa della Delizia
+    probability: 2
+  - name: Casarza Ligure
+    probability: 2
+  - name: Casasco
+    probability: 2
+  - name: Casatenovo
+    probability: 2
+  - name: Casatisma
+    probability: 2
+  - name: Casavatore
+    probability: 2
+  - name: Casazza
+    probability: 2
+  - name: Cascia
+    probability: 2
+  - name: Casciago
+    probability: 2
+  - name: Casciana Terme Lari
+    probability: 2
+  - name: Cascina
+    probability: 2
+  - name: Cascinette d'Ivrea
+    probability: 2
+  - name: Casei Gerola
+    probability: 2
+  - name: Caselette
+    probability: 2
+  - name: Casella
+    probability: 2
+  - name: Caselle in Pittari
+    probability: 2
+  - name: Caselle Landi
+    probability: 2
+  - name: Caselle Lurani
+    probability: 2
+  - name: Caselle Torinese
+    probability: 2
+  - name: Caserta
+    probability: 2
+  - name: Casier
+    probability: 2
+  - name: Casignana
+    probability: 2
+  - name: Casina
+    probability: 2
+  - name: Casirate d'Adda
+    probability: 2
+  - name: Caslino d'Erba
+    probability: 2
+  - name: Casnate con Bernate
+    probability: 2
+  - name: Casnigo
+    probability: 2
+  - name: Casola di Napoli
+    probability: 2
+  - name: Casola in Lunigiana
+    probability: 2
+  - name: Casola Valsenio
+    probability: 2
+  - name: Casole d'Elsa
+    probability: 2
+  - name: Casoli
+    probability: 2
+  - name: Casorate Primo
+    probability: 2
+  - name: Casorate Sempione
+    probability: 2
+  - name: Casorezzo
+    probability: 2
+  - name: Casoria
+    probability: 2
+  - name: Casorzo Monferrato
+    probability: 2
+  - name: Casperia
+    probability: 2
+  - name: Caspoggio
+    probability: 2
+  - name: Cassacco
+    probability: 2
+  - name: Cassago Brianza
+    probability: 2
+  - name: Cassano all'Ionio
+    probability: 2
+  - name: Cassano d'Adda
+    probability: 2
+  - name: Cassano delle Murge
+    probability: 2
+  - name: Cassano Irpino
+    probability: 2
+  - name: Cassano Magnago
+    probability: 2
+  - name: Cassano Spinola
+    probability: 2
+  - name: Cassano Valcuvia
+    probability: 2
+  - name: Cassaro
+    probability: 2
+  - name: Cassiglio
+    probability: 2
+  - name: Cassina de' Pecchi
+    probability: 2
+  - name: Cassina Rizzardi
+    probability: 2
+  - name: Cassina Valsassina
+    probability: 2
+  - name: Cassinasco
+    probability: 2
+  - name: Cassine
+    probability: 2
+  - name: Cassinelle
+    probability: 2
+  - name: Cassinetta di Lugagnano
+    probability: 2
+  - name: Cassino
+    probability: 2
+  - name: Cassola
+    probability: 2
+  - name: Cassolnovo
+    probability: 2
+  - name: Castagnaro
+    probability: 2
+  - name: Castagneto Carducci
+    probability: 2
+  - name: Castagneto Po
+    probability: 2
+  - name: Castagnito
+    probability: 2
+  - name: Castagnole delle Lanze
+    probability: 2
+  - name: Castagnole Monferrato
+    probability: 2
+  - name: Castagnole Piemonte
+    probability: 2
+  - name: Castana
+    probability: 2
+  - name: Castano Primo
+    probability: 2
+  - name: Casteggio
+    probability: 2
+  - name: Castegnato
+    probability: 2
+  - name: Castegnero
+    probability: 2
+  - name: Castel Baronia
+    probability: 2
+  - name: Castel Boglione
+    probability: 2
+  - name: Castel Bolognese
+    probability: 2
+  - name: Castel Campagnano
+    probability: 2
+  - name: Castel Castagna
+    probability: 2
+  - name: Castel Condino
+    probability: 2
+  - name: Castel d'Aiano
+    probability: 2
+  - name: Castel d'Ario
+    probability: 2
+  - name: Castel d'Azzano
+    probability: 2
+  - name: Castel del Giudice
+    probability: 2
+  - name: Castel del Monte
+    probability: 2
+  - name: Castel del Piano
+    probability: 2
+  - name: Castel del Rio
+    probability: 2
+  - name: Castel di Casio
+    probability: 2
+  - name: Castel di Ieri
+    probability: 2
+  - name: Castel di Iudica
+    probability: 2
+  - name: Castel di Lama
+    probability: 2
+  - name: Castel di Lucio
+    probability: 2
+  - name: Castel di Sangro
+    probability: 2
+  - name: Castel di Sasso
+    probability: 2
+  - name: Castel di Tora
+    probability: 2
+  - name: Castel Focognano
+    probability: 2
+  - name: Castel Frentano
+    probability: 2
+  - name: Castel Gabbiano
+    probability: 2
+  - name: Castel Gandolfo
+    probability: 2
+  - name: Castel Giorgio
+    probability: 2
+  - name: Castel Goffredo
+    probability: 2
+  - name: Castel Guelfo di Bologna
+    probability: 2
+  - name: Castel Ivano
+    probability: 2
+  - name: Castel Madama
+    probability: 2
+  - name: Castel Maggiore
+    probability: 2
+  - name: Castel Mella
+    probability: 2
+  - name: Castel Morrone
+    probability: 2
+  - name: Castel Ritaldi
+    probability: 2
+  - name: Castel Rocchero
+    probability: 2
+  - name: Castel Rozzone
+    probability: 2
+  - name: Castel San Giorgio
+    probability: 2
+  - name: Castel San Giovanni
+    probability: 2
+  - name: Castel San Lorenzo
+    probability: 2
+  - name: Castel San Niccolo'
+    probability: 2
+  - name: Castel San Pietro Romano
+    probability: 2
+  - name: Castel San Pietro Terme
+    probability: 2
+  - name: Castel San Vincenzo
+    probability: 2
+  - name: Castel Sant'Angelo
+    probability: 2
+  - name: Castel Sant'Elia
+    probability: 2
+  - name: Castel Viscardo
+    probability: 2
+  - name: Castel Vittorio
+    probability: 2
+  - name: Castel Volturno
+    probability: 2
+  - name: Castelbaldo
+    probability: 2
+  - name: Castelbelforte
+    probability: 2
+  - name: Castelbellino
+    probability: 2
+  - name: Castelbello-Ciardes
+    probability: 2
+  - name: Castelbianco
+    probability: 2
+  - name: Castelbottaccio
+    probability: 2
+  - name: Castelbuono
+    probability: 2
+  - name: Castelcivita
+    probability: 2
+  - name: Castelcovati
+    probability: 2
+  - name: Castelcucco
+    probability: 2
+  - name: Casteldaccia
+    probability: 2
+  - name: Casteldelci
+    probability: 2
+  - name: Casteldelfino
+    probability: 2
+  - name: Casteldidone
+    probability: 2
+  - name: Castelfidardo
+    probability: 2
+  - name: Castelfiorentino
+    probability: 2
+  - name: Castelforte
+    probability: 2
+  - name: Castelfranci
+    probability: 2
+  - name: Castelfranco di Sotto
+    probability: 2
+  - name: Castelfranco Emilia
+    probability: 2
+  - name: Castelfranco in Miscano
+    probability: 2
+  - name: Castelfranco Piandisco'
+    probability: 2
+  - name: Castelfranco Veneto
+    probability: 2
+  - name: Castelgerundo
+    probability: 2
+  - name: Castelgomberto
+    probability: 2
+  - name: Castelgrande
+    probability: 2
+  - name: Castelguglielmo
+    probability: 2
+  - name: Castelguidone
+    probability: 2
+  - name: Castell'Alfero
+    probability: 2
+  - name: Castell'Arquato
+    probability: 2
+  - name: Castell'Azzara
+    probability: 2
+  - name: Castell'Umberto
+    probability: 2
+  - name: Castellabate
+    probability: 2
+  - name: Castellafiume
+    probability: 2
+  - name: Castellalto
+    probability: 2
+  - name: Castellammare del Golfo
+    probability: 2
+  - name: Castellammare di Stabia
+    probability: 2
+  - name: Castellamonte
+    probability: 2
+  - name: Castellana Grotte
+    probability: 2
+  - name: Castellana Sicula
+    probability: 2
+  - name: Castellaneta
+    probability: 2
+  - name: Castellania Coppi
+    probability: 2
+  - name: Castellanza
+    probability: 2
+  - name: Castellar Guidobono
+    probability: 2
+  - name: Castellarano
+    probability: 2
+  - name: Castellaro
+    probability: 2
+  - name: Castellazzo Bormida
+    probability: 2
+  - name: Castellazzo Novarese
+    probability: 2
+  - name: Castelleone
+    probability: 2
+  - name: Castelleone di Suasa
+    probability: 2
+  - name: Castellero
+    probability: 2
+  - name: Castelletto Cervo
+    probability: 2
+  - name: Castelletto d'Erro
+    probability: 2
+  - name: Castelletto d'Orba
+    probability: 2
+  - name: Castelletto di Branduzzo
+    probability: 2
+  - name: Castelletto Merli
+    probability: 2
+  - name: Castelletto Molina
+    probability: 2
+  - name: Castelletto Monferrato
+    probability: 2
+  - name: Castelletto sopra Ticino
+    probability: 2
+  - name: Castelletto Stura
+    probability: 2
+  - name: Castelletto Uzzone
+    probability: 2
+  - name: Castelli
+    probability: 2
+  - name: Castelli Calepio
+    probability: 2
+  - name: Castellina in Chianti
+    probability: 2
+  - name: Castellina Marittima
+    probability: 2
+  - name: Castellinaldo d'Alba
+    probability: 2
+  - name: Castellino del Biferno
+    probability: 2
+  - name: Castellino Tanaro
+    probability: 2
+  - name: Castelliri
+    probability: 2
+  - name: Castello Cabiaglio
+    probability: 2
+  - name: Castello d'Agogna
+    probability: 2
+  - name: Castello d'Argile
+    probability: 2
+  - name: Castello del Matese
+    probability: 2
+  - name: Castello dell'Acqua
+    probability: 2
+  - name: Castello di Annone
+    probability: 2
+  - name: Castello di Brianza
+    probability: 2
+  - name: Castello di Cisterna
+    probability: 2
+  - name: Castello di Godego
+    probability: 2
+  - name: Castello Tesino
+    probability: 2
+  - name: Castello-Molina di Fiemme
+    probability: 2
+  - name: Castellucchio
+    probability: 2
+  - name: Castelluccio dei Sauri
+    probability: 2
+  - name: Castelluccio Inferiore
+    probability: 2
+  - name: Castelluccio Superiore
+    probability: 2
+  - name: Castelluccio Valmaggiore
+    probability: 2
+  - name: Castelmagno
+    probability: 2
+  - name: Castelmarte
+    probability: 2
+  - name: Castelmassa
+    probability: 2
+  - name: Castelmauro
+    probability: 2
+  - name: Castelmezzano
+    probability: 2
+  - name: Castelmola
+    probability: 2
+  - name: Castelnovetto
+    probability: 2
+  - name: Castelnovo Bariano
+    probability: 2
+  - name: Castelnovo del Friuli
+    probability: 2
+  - name: Castelnovo di Sotto
+    probability: 2
+  - name: Castelnovo ne' Monti
+    probability: 2
+  - name: Castelnuovo
+    probability: 2
+  - name: Castelnuovo Belbo
+    probability: 2
+  - name: Castelnuovo Berardenga
+    probability: 2
+  - name: Castelnuovo Bocca d'Adda
+    probability: 2
+  - name: Castelnuovo Bormida
+    probability: 2
+  - name: Castelnuovo Bozzente
+    probability: 2
+  - name: Castelnuovo Calcea
+    probability: 2
+  - name: Castelnuovo Cilento
+    probability: 2
+  - name: Castelnuovo del Garda
+    probability: 2
+  - name: Castelnuovo della Daunia
+    probability: 2
+  - name: Castelnuovo di Ceva
+    probability: 2
+  - name: Castelnuovo di Conza
+    probability: 2
+  - name: Castelnuovo di Farfa
+    probability: 2
+  - name: Castelnuovo di Garfagnana
+    probability: 2
+  - name: Castelnuovo di Porto
+    probability: 2
+  - name: Castelnuovo di Val di Cecina
+    probability: 2
+  - name: Castelnuovo Don Bosco
+    probability: 2
+  - name: Castelnuovo Magra
+    probability: 2
+  - name: Castelnuovo Nigra
+    probability: 2
+  - name: Castelnuovo Parano
+    probability: 2
+  - name: Castelnuovo Rangone
+    probability: 2
+  - name: Castelnuovo Scrivia
+    probability: 2
+  - name: Castelpagano
+    probability: 2
+  - name: Castelpetroso
+    probability: 2
+  - name: Castelpizzuto
+    probability: 2
+  - name: Castelplanio
+    probability: 2
+  - name: Castelpoto
+    probability: 2
+  - name: Castelraimondo
+    probability: 2
+  - name: Castelrotto
+    probability: 2
+  - name: Castelsantangelo sul Nera
+    probability: 2
+  - name: Castelsaraceno
+    probability: 2
+  - name: Castelsardo
+    probability: 2
+  - name: Castelseprio
+    probability: 2
+  - name: Castelsilano
+    probability: 2
+  - name: Castelspina
+    probability: 2
+  - name: Casteltermini
+    probability: 2
+  - name: Castelveccana
+    probability: 2
+  - name: Castelvecchio Calvisio
+    probability: 2
+  - name: Castelvecchio di Rocca Barbena
+    probability: 2
+  - name: Castelvecchio Subequo
+    probability: 2
+  - name: Castelvenere
+    probability: 2
+  - name: Castelverde
+    probability: 2
+  - name: Castelverrino
+    probability: 2
+  - name: Castelvetere in Val Fortore
+    probability: 2
+  - name: Castelvetere sul Calore
+    probability: 2
+  - name: Castelvetrano
+    probability: 2
+  - name: Castelvetro di Modena
+    probability: 2
+  - name: Castelvetro Piacentino
+    probability: 2
+  - name: Castelvisconti
+    probability: 2
+  - name: Castenaso
+    probability: 2
+  - name: Castenedolo
+    probability: 2
+  - name: Castiadas
+    probability: 2
+  - name: Castiglion Fibocchi
+    probability: 2
+  - name: Castiglion Fiorentino
+    probability: 2
+  - name: Castiglione a Casauria
+    probability: 2
+  - name: Castiglione Chiavarese
+    probability: 2
+  - name: Castiglione Cosentino
+    probability: 2
+  - name: Castiglione d'Adda
+    probability: 2
+  - name: Castiglione d'Orcia
+    probability: 2
+  - name: Castiglione dei Pepoli
+    probability: 2
+  - name: Castiglione del Genovesi
+    probability: 2
+  - name: Castiglione del Lago
+    probability: 2
+  - name: Castiglione della Pescaia
+    probability: 2
+  - name: Castiglione delle Stiviere
+    probability: 2
+  - name: Castiglione di Garfagnana
+    probability: 2
+  - name: Castiglione di Sicilia
+    probability: 2
+  - name: Castiglione Falletto
+    probability: 2
+  - name: Castiglione in Teverina
+    probability: 2
+  - name: Castiglione Messer Marino
+    probability: 2
+  - name: Castiglione Messer Raimondo
+    probability: 2
+  - name: Castiglione Olona
+    probability: 2
+  - name: Castiglione Tinella
+    probability: 2
+  - name: Castiglione Torinese
+    probability: 2
+  - name: Castignano
+    probability: 2
+  - name: Castilenti
+    probability: 2
+  - name: Castino
+    probability: 2
+  - name: Castione Andevenno
+    probability: 2
+  - name: Castione della Presolana
+    probability: 2
+  - name: Castions di Strada
+    probability: 2
+  - name: Castiraga Vidardo
+    probability: 2
+  - name: Casto
+    probability: 2
+  - name: Castorano
+    probability: 2
+  - name: Castrezzato
+    probability: 2
+  - name: Castri di Lecce
+    probability: 2
+  - name: Castrignano de' Greci
+    probability: 2
+  - name: Castrignano del Capo
+    probability: 2
+  - name: Castro
+    probability: 2
+  - name: Castro
+    probability: 2
+  - name: Castro dei Volsci
+    probability: 2
+  - name: Castrocaro Terme e Terra del Sole
+    probability: 2
+  - name: Castrocielo
+    probability: 2
+  - name: Castrofilippo
+    probability: 2
+  - name: Castrolibero
+    probability: 2
+  - name: Castronno
+    probability: 2
+  - name: Castronovo di Sicilia
+    probability: 2
+  - name: Castronuovo di Sant'Andrea
+    probability: 2
+  - name: Castropignano
+    probability: 2
+  - name: Castroreale
+    probability: 2
+  - name: Castroregio
+    probability: 2
+  - name: Castrovillari
+    probability: 2
+  - name: Catania
+    probability: 2
+  - name: Catanzaro
+    probability: 2
+  - name: Catenanuova
+    probability: 2
+  - name: Catignano
+    probability: 2
+  - name: Cattolica
+    probability: 2
+  - name: Cattolica Eraclea
+    probability: 2
+  - name: Caulonia
+    probability: 2
+  - name: Cautano
+    probability: 2
+  - name: Cava de' Tirreni
+    probability: 2
+  - name: Cava Manara
+    probability: 2
+  - name: Cavaglia'
+    probability: 2
+  - name: Cavaglietto
+    probability: 2
+  - name: Cavaglio d'Agogna
+    probability: 2
+  - name: Cavagnolo
+    probability: 2
+  - name: Cavaion Veronese
+    probability: 2
+  - name: Cavalese
+    probability: 2
+  - name: Cavallerleone
+    probability: 2
+  - name: Cavallermaggiore
+    probability: 2
+  - name: Cavallino
+    probability: 2
+  - name: Cavallino-Treporti
+    probability: 2
+  - name: Cavallirio
+    probability: 2
+  - name: Cavareno
+    probability: 2
+  - name: Cavargna
+    probability: 2
+  - name: Cavaria con Premezzo
+    probability: 2
+  - name: Cavarzere
+    probability: 2
+  - name: Cavaso del Tomba
+    probability: 2
+  - name: Cavasso Nuovo
+    probability: 2
+  - name: Cavatore
+    probability: 2
+  - name: Cavazzo Carnico
+    probability: 2
+  - name: Cave
+    probability: 2
+  - name: Cavedago
+    probability: 2
+  - name: Cavedine
+    probability: 2
+  - name: Cavenago d'Adda
+    probability: 2
+  - name: Cavenago di Brianza
+    probability: 2
+  - name: Cavernago
+    probability: 2
+  - name: Cavezzo
+    probability: 2
+  - name: Cavizzana
+    probability: 2
+  - name: Cavour
+    probability: 2
+  - name: Cavriago
+    probability: 2
+  - name: Cavriana
+    probability: 2
+  - name: Cavriglia
+    probability: 2
+  - name: Cazzago Brabbia
+    probability: 2
+  - name: Cazzago San Martino
+    probability: 2
+  - name: Cazzano di Tramigna
+    probability: 2
+  - name: Cazzano Sant'Andrea
+    probability: 2
+  - name: Ceccano
+    probability: 2
+  - name: Cecima
+    probability: 2
+  - name: Cecina
+    probability: 2
+  - name: Cedegolo
+    probability: 2
+  - name: Cedrasco
+    probability: 2
+  - name: Cefala' Diana
+    probability: 2
+  - name: Cefalu'
+    probability: 2
+  - name: Ceggia
+    probability: 2
+  - name: Ceglie Messapica
+    probability: 2
+  - name: Celano
+    probability: 2
+  - name: Celenza sul Trigno
+    probability: 2
+  - name: Celenza Valfortore
+    probability: 2
+  - name: Celico
+    probability: 2
+  - name: Cella Dati
+    probability: 2
+  - name: Cella Monte
+    probability: 2
+  - name: Cellamare
+    probability: 2
+  - name: Cellara
+    probability: 2
+  - name: Cellarengo
+    probability: 2
+  - name: Cellatica
+    probability: 2
+  - name: Celle di Bulgheria
+    probability: 2
+  - name: Celle di Macra
+    probability: 2
+  - name: Celle di San Vito
+    probability: 2
+  - name: Celle Enomondo
+    probability: 2
+  - name: Celle Ligure
+    probability: 2
+  - name: Celleno
+    probability: 2
+  - name: Cellere
+    probability: 2
+  - name: Cellino Attanasio
+    probability: 2
+  - name: Cellino San Marco
+    probability: 2
+  - name: Cellio con Breia
+    probability: 2
+  - name: Cellole
+    probability: 2
+  - name: Cembra Lisignago
+    probability: 2
+  - name: Cenadi
+    probability: 2
+  - name: Cenate Sopra
+    probability: 2
+  - name: Cenate Sotto
+    probability: 2
+  - name: Cencenighe Agordino
+    probability: 2
+  - name: Cene
+    probability: 2
+  - name: Ceneselli
+    probability: 2
+  - name: Cengio
+    probability: 2
+  - name: Centallo
+    probability: 2
+  - name: Cento
+    probability: 2
+  - name: Centola
+    probability: 2
+  - name: Centrache
+    probability: 2
+  - name: Centro Valle Intelvi
+    probability: 2
+  - name: Centuripe
+    probability: 2
+  - name: Cepagatti
+    probability: 2
+  - name: Ceppaloni
+    probability: 2
+  - name: Ceppo Morelli
+    probability: 2
+  - name: Ceprano
+    probability: 2
+  - name: Cerami
+    probability: 2
+  - name: Ceranesi
+    probability: 2
+  - name: Cerano
+    probability: 2
+  - name: Cerano d'Intelvi
+    probability: 2
+  - name: Ceranova
+    probability: 2
+  - name: Ceraso
+    probability: 2
+  - name: Cercemaggiore
+    probability: 2
+  - name: Cercenasco
+    probability: 2
+  - name: Cercepiccola
+    probability: 2
+  - name: Cerchiara di Calabria
+    probability: 2
+  - name: Cerchio
+    probability: 2
+  - name: Cercino
+    probability: 2
+  - name: Cercivento
+    probability: 2
+  - name: Cercola
+    probability: 2
+  - name: Cerda
+    probability: 2
+  - name: Cerea
+    probability: 2
+  - name: Ceregnano
+    probability: 2
+  - name: Cerenzia
+    probability: 2
+  - name: Ceres
+    probability: 2
+  - name: Ceresara
+    probability: 2
+  - name: Cereseto
+    probability: 2
+  - name: Ceresole d'Alba
+    probability: 2
+  - name: Ceresole Reale
+    probability: 2
+  - name: Cerete
+    probability: 2
+  - name: Ceretto Lomellina
+    probability: 2
+  - name: Cergnago
+    probability: 2
+  - name: Ceriale
+    probability: 2
+  - name: Ceriana
+    probability: 2
+  - name: Ceriano Laghetto
+    probability: 2
+  - name: Cerignale
+    probability: 2
+  - name: Cerignola
+    probability: 2
+  - name: Cerisano
+    probability: 2
+  - name: Cermenate
+    probability: 2
+  - name: Cermes
+    probability: 2
+  - name: Cermignano
+    probability: 2
+  - name: Cernobbio
+    probability: 2
+  - name: Cernusco Lombardone
+    probability: 2
+  - name: Cernusco sul Naviglio
+    probability: 2
+  - name: Cerreto d'Asti
+    probability: 2
+  - name: Cerreto d'Esi
+    probability: 2
+  - name: Cerreto di Spoleto
+    probability: 2
+  - name: Cerreto Grue
+    probability: 2
+  - name: Cerreto Guidi
+    probability: 2
+  - name: Cerreto Laziale
+    probability: 2
+  - name: Cerreto Sannita
+    probability: 2
+  - name: Cerretto Langhe
+    probability: 2
+  - name: Cerrina
+    probability: 2
+  - name: Cerrione
+    probability: 2
+  - name: Cerro al Lambro
+    probability: 2
+  - name: Cerro al Volturno
+    probability: 2
+  - name: Cerro Maggiore
+    probability: 2
+  - name: Cerro Tanaro
+    probability: 2
+  - name: Cerro Veronese
+    probability: 2
+  - name: Cersosimo
+    probability: 2
+  - name: Certaldo
+    probability: 2
+  - name: Certosa di Pavia
+    probability: 2
+  - name: Cerva
+    probability: 2
+  - name: Cervara di Roma
+    probability: 2
+  - name: Cervarese Santa Croce
+    probability: 2
+  - name: Cervaro
+    probability: 2
+  - name: Cervasca
+    probability: 2
+  - name: Cervatto
+    probability: 2
+  - name: Cerveno
+    probability: 2
+  - name: Cervere
+    probability: 2
+  - name: Cervesina
+    probability: 2
+  - name: Cerveteri
+    probability: 2
+  - name: Cervia
+    probability: 2
+  - name: Cervicati
+    probability: 2
+  - name: Cervignano d'Adda
+    probability: 2
+  - name: Cervignano del Friuli
+    probability: 2
+  - name: Cervinara
+    probability: 2
+  - name: Cervino
+    probability: 2
+  - name: Cervo
+    probability: 2
+  - name: Cerzeto
+    probability: 2
+  - name: Cesa
+    probability: 2
+  - name: Cesana Brianza
+    probability: 2
+  - name: Cesana Torinese
+    probability: 2
+  - name: Cesano Boscone
+    probability: 2
+  - name: Cesano Maderno
+    probability: 2
+  - name: Cesara
+    probability: 2
+  - name: Cesaro'
+    probability: 2
+  - name: Cesate
+    probability: 2
+  - name: Cesena
+    probability: 2
+  - name: Cesenatico
+    probability: 2
+  - name: Cesinali
+    probability: 2
+  - name: Cesio
+    probability: 2
+  - name: Cesiomaggiore
+    probability: 2
+  - name: Cessalto
+    probability: 2
+  - name: Cessaniti
+    probability: 2
+  - name: Cessapalombo
+    probability: 2
+  - name: Cessole
+    probability: 2
+  - name: Cetara
+    probability: 2
+  - name: Ceto
+    probability: 2
+  - name: Cetona
+    probability: 2
+  - name: Cetraro
+    probability: 2
+  - name: Ceva
+    probability: 2
+  - name: Cevo
+    probability: 2
+  - name: Challand-Saint-Anselme
+    probability: 2
+  - name: Challand-Saint-Victor
+    probability: 2
+  - name: Chambave
+    probability: 2
+  - name: Chamois
+    probability: 2
+  - name: Champdepraz
+    probability: 2
+  - name: Champorcher
+    probability: 2
+  - name: Charvensod
+    probability: 2
+  - name: Châtillon
+    probability: 2
+  - name: Cherasco
+    probability: 2
+  - name: Cheremule
+    probability: 2
+  - name: Chialamberto
+    probability: 2
+  - name: Chiampo
+    probability: 2
+  - name: Chianche
+    probability: 2
+  - name: Chianciano Terme
+    probability: 2
+  - name: Chianni
+    probability: 2
+  - name: Chianocco
+    probability: 2
+  - name: Chiaramonte Gulfi
+    probability: 2
+  - name: Chiaramonti
+    probability: 2
+  - name: Chiarano
+    probability: 2
+  - name: Chiaravalle
+    probability: 2
+  - name: Chiaravalle Centrale
+    probability: 2
+  - name: Chiari
+    probability: 2
+  - name: Chiaromonte
+    probability: 2
+  - name: Chiauci
+    probability: 2
+  - name: Chiavari
+    probability: 2
+  - name: Chiavenna
+    probability: 2
+  - name: Chiaverano
+    probability: 2
+  - name: Chienes
+    probability: 2
+  - name: Chieri
+    probability: 2
+  - name: Chies d'Alpago
+    probability: 2
+  - name: Chiesa in Valmalenco
+    probability: 2
+  - name: Chiesanuova
+    probability: 2
+  - name: Chiesina Uzzanese
+    probability: 2
+  - name: Chieti
+    probability: 2
+  - name: Chieuti
+    probability: 2
+  - name: Chieve
+    probability: 2
+  - name: Chignolo d'Isola
+    probability: 2
+  - name: Chignolo Po
+    probability: 2
+  - name: Chioggia
+    probability: 2
+  - name: Chiomonte
+    probability: 2
+  - name: Chions
+    probability: 2
+  - name: Chiopris-Viscone
+    probability: 2
+  - name: Chitignano
+    probability: 2
+  - name: Chiuduno
+    probability: 2
+  - name: Chiuppano
+    probability: 2
+  - name: Chiuro
+    probability: 2
+  - name: Chiusa
+    probability: 2
+  - name: Chiusa di Pesio
+    probability: 2
+  - name: Chiusa di San Michele
+    probability: 2
+  - name: Chiusa Sclafani
+    probability: 2
+  - name: Chiusaforte
+    probability: 2
+  - name: Chiusanico
+    probability: 2
+  - name: Chiusano d'Asti
+    probability: 2
+  - name: Chiusano di San Domenico
+    probability: 2
+  - name: Chiusavecchia
+    probability: 2
+  - name: Chiusdino
+    probability: 2
+  - name: Chiusi
+    probability: 2
+  - name: Chiusi della Verna
+    probability: 2
+  - name: Chivasso
+    probability: 2
+  - name: Ciampino
+    probability: 2
+  - name: Cianciana
+    probability: 2
+  - name: Cibiana di Cadore
+    probability: 2
+  - name: Cicagna
+    probability: 2
+  - name: Cicala
+    probability: 2
+  - name: Cicciano
+    probability: 2
+  - name: Cicerale
+    probability: 2
+  - name: Ciciliano
+    probability: 2
+  - name: Cicognolo
+    probability: 2
+  - name: Ciconio
+    probability: 2
+  - name: Cigliano
+    probability: 2
+  - name: Ciglie'
+    probability: 2
+  - name: Cigognola
+    probability: 2
+  - name: Cigole
+    probability: 2
+  - name: Cilavegna
+    probability: 2
+  - name: Cimadolmo
+    probability: 2
+  - name: Cimbergo
+    probability: 2
+  - name: Cimina'
+    probability: 2
+  - name: Ciminna
+    probability: 2
+  - name: Cimitile
+    probability: 2
+  - name: Cimolais
+    probability: 2
+  - name: Cimone
+    probability: 2
+  - name: Cinaglio
+    probability: 2
+  - name: Cineto Romano
+    probability: 2
+  - name: Cingia de' Botti
+    probability: 2
+  - name: Cingoli
+    probability: 2
+  - name: Cinigiano
+    probability: 2
+  - name: Cinisello Balsamo
+    probability: 2
+  - name: Cinisi
+    probability: 2
+  - name: Cino
+    probability: 2
+  - name: Cinquefrondi
+    probability: 2
+  - name: Cintano
+    probability: 2
+  - name: Cinte Tesino
+    probability: 2
+  - name: Cinto Caomaggiore
+    probability: 2
+  - name: Cinto Euganeo
+    probability: 2
+  - name: Cinzano
+    probability: 2
+  - name: Ciorlano
+    probability: 2
+  - name: Cipressa
+    probability: 2
+  - name: Circello
+    probability: 2
+  - name: Cirie'
+    probability: 2
+  - name: Cirigliano
+    probability: 2
+  - name: Cirimido
+    probability: 2
+  - name: Ciro'
+    probability: 2
+  - name: Ciro' Marina
+    probability: 2
+  - name: Cis
+    probability: 2
+  - name: Cisano Bergamasco
+    probability: 2
+  - name: Cisano sul Neva
+    probability: 2
+  - name: Ciserano
+    probability: 2
+  - name: Cislago
+    probability: 2
+  - name: Cisliano
+    probability: 2
+  - name: Cison di Valmarino
+    probability: 2
+  - name: Cissone
+    probability: 2
+  - name: Cisterna d'Asti
+    probability: 2
+  - name: Cisterna di Latina
+    probability: 2
+  - name: Cisternino
+    probability: 2
+  - name: Citerna
+    probability: 2
+  - name: Citta' della Pieve
+    probability: 2
+  - name: Citta' di Castello
+    probability: 2
+  - name: Citta' Sant'Angelo
+    probability: 2
+  - name: Cittadella
+    probability: 2
+  - name: Cittaducale
+    probability: 2
+  - name: Cittanova
+    probability: 2
+  - name: Cittareale
+    probability: 2
+  - name: Cittiglio
+    probability: 2
+  - name: Civate
+    probability: 2
+  - name: Civezza
+    probability: 2
+  - name: Civezzano
+    probability: 2
+  - name: Civiasco
+    probability: 2
+  - name: Cividale del Friuli
+    probability: 2
+  - name: Cividate al Piano
+    probability: 2
+  - name: Cividate Camuno
+    probability: 2
+  - name: Civita
+    probability: 2
+  - name: Civita Castellana
+    probability: 2
+  - name: Civita d'Antino
+    probability: 2
+  - name: Civitacampomarano
+    probability: 2
+  - name: Civitaluparella
+    probability: 2
+  - name: Civitanova del Sannio
+    probability: 2
+  - name: Civitanova Marche
+    probability: 2
+  - name: Civitaquana
+    probability: 2
+  - name: Civitavecchia
+    probability: 2
+  - name: Civitella Alfedena
+    probability: 2
+  - name: Civitella Casanova
+    probability: 2
+  - name: Civitella d'Agliano
+    probability: 2
+  - name: Civitella del Tronto
+    probability: 2
+  - name: Civitella di Romagna
+    probability: 2
+  - name: Civitella in Val di Chiana
+    probability: 2
+  - name: Civitella Messer Raimondo
+    probability: 2
+  - name: Civitella Paganico
+    probability: 2
+  - name: Civitella Roveto
+    probability: 2
+  - name: Civitella San Paolo
+    probability: 2
+  - name: Civo
+    probability: 2
+  - name: Claino con Osteno
+    probability: 2
+  - name: Claut
+    probability: 2
+  - name: Clauzetto
+    probability: 2
+  - name: Clavesana
+    probability: 2
+  - name: Claviere
+    probability: 2
+  - name: Cles
+    probability: 2
+  - name: Cleto
+    probability: 2
+  - name: Clivio
+    probability: 2
+  - name: Clusone
+    probability: 2
+  - name: Coassolo Torinese
+    probability: 2
+  - name: Coazze
+    probability: 2
+  - name: Coazzolo
+    probability: 2
+  - name: Coccaglio
+    probability: 2
+  - name: Cocconato
+    probability: 2
+  - name: Cocquio-Trevisago
+    probability: 2
+  - name: Cocullo
+    probability: 2
+  - name: Codevigo
+    probability: 2
+  - name: Codevilla
+    probability: 2
+  - name: Codigoro
+    probability: 2
+  - name: Codogne'
+    probability: 2
+  - name: Codogno
+    probability: 2
+  - name: Codroipo
+    probability: 2
+  - name: Codrongianos
+    probability: 2
+  - name: Coggiola
+    probability: 2
+  - name: Cogliate
+    probability: 2
+  - name: Cogne
+    probability: 2
+  - name: Cogoleto
+    probability: 2
+  - name: Cogollo del Cengio
+    probability: 2
+  - name: Cogorno
+    probability: 2
+  - name: Colazza
+    probability: 2
+  - name: Colere
+    probability: 2
+  - name: Colfelice
+    probability: 2
+  - name: Coli
+    probability: 2
+  - name: Colico
+    probability: 2
+  - name: Collalto Sabino
+    probability: 2
+  - name: Collarmele
+    probability: 2
+  - name: Collazzone
+    probability: 2
+  - name: Colle Brianza
+    probability: 2
+  - name: Colle d'Anchise
+    probability: 2
+  - name: Colle di Tora
+    probability: 2
+  - name: Colle di Val d'Elsa
+    probability: 2
+  - name: Colle San Magno
+    probability: 2
+  - name: Colle Sannita
+    probability: 2
+  - name: Colle Santa Lucia
+    probability: 2
+  - name: Colle Umberto
+    probability: 2
+  - name: Collebeato
+    probability: 2
+  - name: Collecchio
+    probability: 2
+  - name: Collecorvino
+    probability: 2
+  - name: Colledara
+    probability: 2
+  - name: Colledimacine
+    probability: 2
+  - name: Colledimezzo
+    probability: 2
+  - name: Colleferro
+    probability: 2
+  - name: Collegiove
+    probability: 2
+  - name: Collegno
+    probability: 2
+  - name: Collelongo
+    probability: 2
+  - name: Collepardo
+    probability: 2
+  - name: Collepasso
+    probability: 2
+  - name: Collepietro
+    probability: 2
+  - name: Colleretto Castelnuovo
+    probability: 2
+  - name: Colleretto Giacosa
+    probability: 2
+  - name: Collesalvetti
+    probability: 2
+  - name: Collesano
+    probability: 2
+  - name: Colletorto
+    probability: 2
+  - name: Collevecchio
+    probability: 2
+  - name: Colli al Metauro
+    probability: 2
+  - name: Colli a Volturno
+    probability: 2
+  - name: Colli del Tronto
+    probability: 2
+  - name: Colli sul Velino
+    probability: 2
+  - name: Colli Verdi
+    probability: 2
+  - name: Colliano
+    probability: 2
+  - name: Collinas
+    probability: 2
+  - name: Collio
+    probability: 2
+  - name: Collobiano
+    probability: 2
+  - name: Colloredo di Monte Albano
+    probability: 2
+  - name: Colmurano
+    probability: 2
+  - name: Colobraro
+    probability: 2
+  - name: Cologna Veneta
+    probability: 2
+  - name: Cologne
+    probability: 2
+  - name: Cologno al Serio
+    probability: 2
+  - name: Cologno Monzese
+    probability: 2
+  - name: Colognola ai Colli
+    probability: 2
+  - name: Colonna
+    probability: 2
+  - name: Colonnella
+    probability: 2
+  - name: Colonno
+    probability: 2
+  - name: Colorina
+    probability: 2
+  - name: Colorno
+    probability: 2
+  - name: Colosimi
+    probability: 2
+  - name: Colturano
+    probability: 2
+  - name: Colverde
+    probability: 2
+  - name: Colzate
+    probability: 2
+  - name: Comabbio
+    probability: 2
+  - name: Comacchio
+    probability: 2
+  - name: Comano
+    probability: 2
+  - name: Comano Terme
+    probability: 2
+  - name: Comazzo
+    probability: 2
+  - name: Comeglians
+    probability: 2
+  - name: Comelico Superiore
+    probability: 2
+  - name: Comerio
+    probability: 2
+  - name: Comezzano-Cizzago
+    probability: 2
+  - name: Comignago
+    probability: 2
+  - name: Comiso
+    probability: 2
+  - name: Comitini
+    probability: 2
+  - name: Comiziano
+    probability: 2
+  - name: Commessaggio
+    probability: 2
+  - name: Commezzadura
+    probability: 2
+  - name: Como
+    probability: 2
+  - name: Compiano
+    probability: 2
+  - name: Comun Nuovo
+    probability: 2
+  - name: Comunanza
+    probability: 2
+  - name: Cona
+    probability: 2
+  - name: Conca Casale
+    probability: 2
+  - name: Conca dei Marini
+    probability: 2
+  - name: Conca della Campania
+    probability: 2
+  - name: Concamarise
+    probability: 2
+  - name: Concerviano
+    probability: 2
+  - name: Concesio
+    probability: 2
+  - name: Conco
+    probability: 2
+  - name: Concordia Sagittaria
+    probability: 2
+  - name: Concordia sulla Secchia
+    probability: 2
+  - name: Concorezzo
+    probability: 2
+  - name: Condofuri
+    probability: 2
+  - name: Condove
+    probability: 2
+  - name: Condro'
+    probability: 2
+  - name: Conegliano
+    probability: 2
+  - name: Confienza
+    probability: 2
+  - name: Configni
+    probability: 2
+  - name: Conflenti
+    probability: 2
+  - name: Coniolo
+    probability: 2
+  - name: Conselice
+    probability: 2
+  - name: Conselve
+    probability: 2
+  - name: Conta'
+    probability: 2
+  - name: Contessa Entellina
+    probability: 2
+  - name: Contigliano
+    probability: 2
+  - name: Contrada
+    probability: 2
+  - name: Controguerra
+    probability: 2
+  - name: Controne
+    probability: 2
+  - name: Contursi Terme
+    probability: 2
+  - name: Conversano
+    probability: 2
+  - name: Conza della Campania
+    probability: 2
+  - name: Conzano
+    probability: 2
+  - name: Copertino
+    probability: 2
+  - name: Copiano
+    probability: 2
+  - name: Copparo
+    probability: 2
+  - name: Corana
+    probability: 2
+  - name: Corato
+    probability: 2
+  - name: Corbara
+    probability: 2
+  - name: Corbetta
+    probability: 2
+  - name: Corbola
+    probability: 2
+  - name: Corchiano
+    probability: 2
+  - name: Corciano
+    probability: 2
+  - name: Cordenons
+    probability: 2
+  - name: Cordignano
+    probability: 2
+  - name: Cordovado
+    probability: 2
+  - name: Coreglia Antelminelli
+    probability: 2
+  - name: Coreglia Ligure
+    probability: 2
+  - name: Coreno Ausonio
+    probability: 2
+  - name: Corfinio
+    probability: 2
+  - name: Cori
+    probability: 2
+  - name: Coriano
+    probability: 2
+  - name: Corigliano-Rossano
+    probability: 2
+  - name: Corigliano d'Otranto
+    probability: 2
+  - name: Corinaldo
+    probability: 2
+  - name: Corio
+    probability: 2
+  - name: Corleone
+    probability: 2
+  - name: Corleto Monforte
+    probability: 2
+  - name: Corleto Perticara
+    probability: 2
+  - name: Cormano
+    probability: 2
+  - name: Cormons
+    probability: 2
+  - name: Corna Imagna
+    probability: 2
+  - name: Cornalba
+    probability: 2
+  - name: Cornale e Bastida
+    probability: 2
+  - name: Cornaredo
+    probability: 2
+  - name: Cornate d'Adda
+    probability: 2
+  - name: Cornedo all'Isarco
+    probability: 2
+  - name: Cornedo Vicentino
+    probability: 2
+  - name: Cornegliano Laudense
+    probability: 2
+  - name: Corneliano d'Alba
+    probability: 2
+  - name: Corniglio
+    probability: 2
+  - name: Corno di Rosazzo
+    probability: 2
+  - name: Corno Giovine
+    probability: 2
+  - name: Cornovecchio
+    probability: 2
+  - name: Cornuda
+    probability: 2
+  - name: Correggio
+    probability: 2
+  - name: Correzzana
+    probability: 2
+  - name: Correzzola
+    probability: 2
+  - name: Corrido
+    probability: 2
+  - name: Corridonia
+    probability: 2
+  - name: Corropoli
+    probability: 2
+  - name: Corsano
+    probability: 2
+  - name: Corsico
+    probability: 2
+  - name: Corsione
+    probability: 2
+  - name: Cortaccia sulla Strada del Vino
+    probability: 2
+  - name: Cortale
+    probability: 2
+  - name: Cortandone
+    probability: 2
+  - name: Cortanze
+    probability: 2
+  - name: Cortazzone
+    probability: 2
+  - name: Corte Brugnatella
+    probability: 2
+  - name: Corte de' Cortesi con Cignone
+    probability: 2
+  - name: Corte de' Frati
+    probability: 2
+  - name: Corte Franca
+    probability: 2
+  - name: Corte Palasio
+    probability: 2
+  - name: Cortemaggiore
+    probability: 2
+  - name: Cortemilia
+    probability: 2
+  - name: Corteno Golgi
+    probability: 2
+  - name: Cortenova
+    probability: 2
+  - name: Cortenuova
+    probability: 2
+  - name: Corteolona e Genzone
+    probability: 2
+  - name: Cortiglione
+    probability: 2
+  - name: Cortina d'Ampezzo
+    probability: 2
+  - name: Cortina sulla Strada del Vino
+    probability: 2
+  - name: Cortino
+    probability: 2
+  - name: Cortona
+    probability: 2
+  - name: Corvara
+    probability: 2
+  - name: Corvara in Badia
+    probability: 2
+  - name: Corvino San Quirico
+    probability: 2
+  - name: Corzano
+    probability: 2
+  - name: Coseano
+    probability: 2
+  - name: Cosenza
+    probability: 2
+  - name: Cosio di Arroscia
+    probability: 2
+  - name: Cosio Valtellino
+    probability: 2
+  - name: Cosoleto
+    probability: 2
+  - name: Cossano Belbo
+    probability: 2
+  - name: Cossano Canavese
+    probability: 2
+  - name: Cossato
+    probability: 2
+  - name: Cosseria
+    probability: 2
+  - name: Cossignano
+    probability: 2
+  - name: Cossogno
+    probability: 2
+  - name: Cossoine
+    probability: 2
+  - name: Cossombrato
+    probability: 2
+  - name: Costa de' Nobili
+    probability: 2
+  - name: Costa di Mezzate
+    probability: 2
+  - name: Costa di Rovigo
+    probability: 2
+  - name: Costa Masnaga
+    probability: 2
+  - name: Costa Serina
+    probability: 2
+  - name: Costa Valle Imagna
+    probability: 2
+  - name: Costa Vescovato
+    probability: 2
+  - name: Costa Volpino
+    probability: 2
+  - name: Costabissara
+    probability: 2
+  - name: Costacciaro
+    probability: 2
+  - name: Costanzana
+    probability: 2
+  - name: Costarainera
+    probability: 2
+  - name: Costermano sul Garda
+    probability: 2
+  - name: Costigliole d'Asti
+    probability: 2
+  - name: Costigliole Saluzzo
+    probability: 2
+  - name: Cotignola
+    probability: 2
+  - name: Cotronei
+    probability: 2
+  - name: Cottanello
+    probability: 2
+  - name: Courmayeur
+    probability: 2
+  - name: Covo
+    probability: 2
+  - name: Cozzo
+    probability: 2
+  - name: Craco
+    probability: 2
+  - name: Crandola Valsassina
+    probability: 2
+  - name: Cravagliana
+    probability: 2
+  - name: Cravanzana
+    probability: 2
+  - name: Craveggia
+    probability: 2
+  - name: Creazzo
+    probability: 2
+  - name: Crecchio
+    probability: 2
+  - name: Credaro
+    probability: 2
+  - name: Credera Rubbiano
+    probability: 2
+  - name: Crema
+    probability: 2
+  - name: Cremella
+    probability: 2
+  - name: Cremenaga
+    probability: 2
+  - name: Cremeno
+    probability: 2
+  - name: Cremia
+    probability: 2
+  - name: Cremolino
+    probability: 2
+  - name: Cremona
+    probability: 2
+  - name: Cremosano
+    probability: 2
+  - name: Crescentino
+    probability: 2
+  - name: Crespadoro
+    probability: 2
+  - name: Crespiatica
+    probability: 2
+  - name: Crespina Lorenzana
+    probability: 2
+  - name: Crespino
+    probability: 2
+  - name: Cressa
+    probability: 2
+  - name: Crevacuore
+    probability: 2
+  - name: Crevalcore
+    probability: 2
+  - name: Crevoladossola
+    probability: 2
+  - name: Crispano
+    probability: 2
+  - name: Crispiano
+    probability: 2
+  - name: Crissolo
+    probability: 2
+  - name: Crocefieschi
+    probability: 2
+  - name: Crocetta del Montello
+    probability: 2
+  - name: Crodo
+    probability: 2
+  - name: Crognaleto
+    probability: 2
+  - name: Cropalati
+    probability: 2
+  - name: Cropani
+    probability: 2
+  - name: Crosia
+    probability: 2
+  - name: Crosio della Valle
+    probability: 2
+  - name: Crotone
+    probability: 2
+  - name: Crotta d'Adda
+    probability: 2
+  - name: Crova
+    probability: 2
+  - name: Croviana
+    probability: 2
+  - name: Crucoli
+    probability: 2
+  - name: Cuasso al Monte
+    probability: 2
+  - name: Cuccaro Vetere
+    probability: 2
+  - name: Cucciago
+    probability: 2
+  - name: Cuceglio
+    probability: 2
+  - name: Cuggiono
+    probability: 2
+  - name: Cugliate-Fabiasco
+    probability: 2
+  - name: Cuglieri
+    probability: 2
+  - name: Cugnoli
+    probability: 2
+  - name: Cumiana
+    probability: 2
+  - name: Cumignano sul Naviglio
+    probability: 2
+  - name: Cunardo
+    probability: 2
+  - name: Cuneo
+    probability: 2
+  - name: Cunico
+    probability: 2
+  - name: Cuorgne'
+    probability: 2
+  - name: Cupello
+    probability: 2
+  - name: Cupra Marittima
+    probability: 2
+  - name: Cupramontana
+    probability: 2
+  - name: Cura Carpignano
+    probability: 2
+  - name: Curcuris
+    probability: 2
+  - name: Cureggio
+    probability: 2
+  - name: Curiglia con Monteviasco
+    probability: 2
+  - name: Curinga
+    probability: 2
+  - name: Curino
+    probability: 2
+  - name: Curno
+    probability: 2
+  - name: Curon Venosta
+    probability: 2
+  - name: Cursi
+    probability: 2
+  - name: Curtarolo
+    probability: 2
+  - name: Curtatone
+    probability: 2
+  - name: Curti
+    probability: 2
+  - name: Cusago
+    probability: 2
+  - name: Cusano Milanino
+    probability: 2
+  - name: Cusano Mutri
+    probability: 2
+  - name: Cusino
+    probability: 2
+  - name: Cusio
+    probability: 2
+  - name: Custonaci
+    probability: 2
+  - name: Cutro
+    probability: 2
+  - name: Cutrofiano
+    probability: 2
+  - name: Cuveglio
+    probability: 2
+  - name: Cuvio
+    probability: 2
+  - name: Dairago
+    probability: 2
+  - name: Dalmine
+    probability: 2
+  - name: Dambel
+    probability: 2
+  - name: Danta di Cadore
+    probability: 2
+  - name: Darfo Boario Terme
+    probability: 2
+  - name: Dasa'
+    probability: 2
+  - name: Davagna
+    probability: 2
+  - name: Daverio
+    probability: 2
+  - name: Davoli
+    probability: 2
+  - name: Dazio
+    probability: 2
+  - name: Decimomannu
+    probability: 2
+  - name: Decimoputzu
+    probability: 2
+  - name: Decollatura
+    probability: 2
+  - name: Dego
+    probability: 2
+  - name: Deiva Marina
+    probability: 2
+  - name: Delebio
+    probability: 2
+  - name: Delia
+    probability: 2
+  - name: Delianuova
+    probability: 2
+  - name: Deliceto
+    probability: 2
+  - name: Dello
+    probability: 2
+  - name: Demonte
+    probability: 2
+  - name: Denice
+    probability: 2
+  - name: Denno
+    probability: 2
+  - name: Dernice
+    probability: 2
+  - name: Derovere
+    probability: 2
+  - name: Deruta
+    probability: 2
+  - name: Dervio
+    probability: 2
+  - name: Desana
+    probability: 2
+  - name: Desenzano del Garda
+    probability: 2
+  - name: Desio
+    probability: 2
+  - name: Desulo
+    probability: 2
+  - name: Diamante
+    probability: 2
+  - name: Diano Arentino
+    probability: 2
+  - name: Diano Castello
+    probability: 2
+  - name: Diano d'Alba
+    probability: 2
+  - name: Diano Marina
+    probability: 2
+  - name: Diano San Pietro
+    probability: 2
+  - name: Dicomano
+    probability: 2
+  - name: Dignano
+    probability: 2
+  - name: Dimaro Folgarida
+    probability: 2
+  - name: Dinami
+    probability: 2
+  - name: Dipignano
+    probability: 2
+  - name: Diso
+    probability: 2
+  - name: Divignano
+    probability: 2
+  - name: Dizzasco
+    probability: 2
+  - name: Dobbiaco
+    probability: 2
+  - name: Doberdo' del Lago
+    probability: 2
+  - name: Dogliani
+    probability: 2
+  - name: Dogliola
+    probability: 2
+  - name: Dogna
+    probability: 2
+  - name: Dolca'
+    probability: 2
+  - name: Dolceacqua
+    probability: 2
+  - name: Dolcedo
+    probability: 2
+  - name: Dolegna del Collio
+    probability: 2
+  - name: Dolianova
+    probability: 2
+  - name: Dolo
+    probability: 2
+  - name: Dolzago
+    probability: 2
+  - name: Domanico
+    probability: 2
+  - name: Domaso
+    probability: 2
+  - name: Domegge di Cadore
+    probability: 2
+  - name: Domicella
+    probability: 2
+  - name: Domodossola
+    probability: 2
+  - name: Domus de Maria
+    probability: 2
+  - name: Domusnovas
+    probability: 2
+  - name: Donato
+    probability: 2
+  - name: Dongo
+    probability: 2
+  - name: Donnas
+    probability: 2
+  - name: Donori
+    probability: 2
+  - name: Dorgali
+    probability: 2
+  - name: Dorio
+    probability: 2
+  - name: Dormelletto
+    probability: 2
+  - name: Dorno
+    probability: 2
+  - name: Dorzano
+    probability: 2
+  - name: Dosolo
+    probability: 2
+  - name: Dossena
+    probability: 2
+  - name: Dosso del Liro
+    probability: 2
+  - name: Doues
+    probability: 2
+  - name: Dovadola
+    probability: 2
+  - name: Dovera
+    probability: 2
+  - name: Dozza
+    probability: 2
+  - name: Dragoni
+    probability: 2
+  - name: Drapia
+    probability: 2
+  - name: Drena
+    probability: 2
+  - name: Drenchia
+    probability: 2
+  - name: Dresano
+    probability: 2
+  - name: Dro
+    probability: 2
+  - name: Dronero
+    probability: 2
+  - name: Druento
+    probability: 2
+  - name: Druogno
+    probability: 2
+  - name: Dualchi
+    probability: 2
+  - name: Dubino
+    probability: 2
+  - name: Due Carrare
+    probability: 2
+  - name: Dueville
+    probability: 2
+  - name: Dugenta
+    probability: 2
+  - name: Duino-Aurisina
+    probability: 2
+  - name: Dumenza
+    probability: 2
+  - name: Duno
+    probability: 2
+  - name: Durazzano
+    probability: 2
+  - name: Duronia
+    probability: 2
+  - name: Dusino San Michele
+    probability: 2
+  - name: Eboli
+    probability: 2
+  - name: Edolo
+    probability: 2
+  - name: Egna
+    probability: 2
+  - name: Elice
+    probability: 2
+  - name: Elini
+    probability: 2
+  - name: Ello
+    probability: 2
+  - name: Elmas
+    probability: 2
+  - name: Elva
+    probability: 2
+  - name: Emarese
+    probability: 2
+  - name: Empoli
+    probability: 2
+  - name: Endine Gaiano
+    probability: 2
+  - name: Enego
+    probability: 2
+  - name: Enemonzo
+    probability: 2
+  - name: Enna
+    probability: 2
+  - name: Entracque
+    probability: 2
+  - name: Entratico
+    probability: 2
+  - name: Envie
+    probability: 2
+  - name: Episcopia
+    probability: 2
+  - name: Eraclea
+    probability: 2
+  - name: Erba
+    probability: 2
+  - name: Erbe'
+    probability: 2
+  - name: Erbezzo
+    probability: 2
+  - name: Erbusco
+    probability: 2
+  - name: Erchie
+    probability: 2
+  - name: Ercolano
+    probability: 2
+  - name: Erice
+    probability: 2
+  - name: Erli
+    probability: 2
+  - name: Erto e Casso
+    probability: 2
+  - name: Erula
+    probability: 2
+  - name: Erve
+    probability: 2
+  - name: Esanatoglia
+    probability: 2
+  - name: Escalaplano
+    probability: 2
+  - name: Escolca
+    probability: 2
+  - name: Esine
+    probability: 2
+  - name: Esino Lario
+    probability: 2
+  - name: Esperia
+    probability: 2
+  - name: Esporlatu
+    probability: 2
+  - name: Este
+    probability: 2
+  - name: Esterzili
+    probability: 2
+  - name: Etroubles
+    probability: 2
+  - name: Eupilio
+    probability: 2
+  - name: Exilles
+    probability: 2
+  - name: Fabbrica Curone
+    probability: 2
+  - name: Fabbriche di Vergemoli
+    probability: 2
+  - name: Fabbrico
+    probability: 2
+  - name: Fabriano
+    probability: 2
+  - name: Fabrica di Roma
+    probability: 2
+  - name: Fabrizia
+    probability: 2
+  - name: Fabro
+    probability: 2
+  - name: Faedis
+    probability: 2
+  - name: Faedo Valtellino
+    probability: 2
+  - name: Faenza
+    probability: 2
+  - name: Faeto
+    probability: 2
+  - name: Fagagna
+    probability: 2
+  - name: Faggeto Lario
+    probability: 2
+  - name: Faggiano
+    probability: 2
+  - name: Fagnano Alto
+    probability: 2
+  - name: Fagnano Castello
+    probability: 2
+  - name: Fagnano Olona
+    probability: 2
+  - name: Fai della Paganella
+    probability: 2
+  - name: Faicchio
+    probability: 2
+  - name: Falcade
+    probability: 2
+  - name: Falciano del Massico
+    probability: 2
+  - name: Falconara Albanese
+    probability: 2
+  - name: Falconara Marittima
+    probability: 2
+  - name: Falcone
+    probability: 2
+  - name: Faleria
+    probability: 2
+  - name: Falerna
+    probability: 2
+  - name: Falerone
+    probability: 2
+  - name: Fallo
+    probability: 2
+  - name: Faloppio
+    probability: 2
+  - name: Falvaterra
+    probability: 2
+  - name: Falzes
+    probability: 2
+  - name: Fanano
+    probability: 2
+  - name: Fanna
+    probability: 2
+  - name: Fano
+    probability: 2
+  - name: Fano Adriano
+    probability: 2
+  - name: Fara Filiorum Petri
+    probability: 2
+  - name: Fara Gera d'Adda
+    probability: 2
+  - name: Fara in Sabina
+    probability: 2
+  - name: Fara Novarese
+    probability: 2
+  - name: Fara Olivana con Sola
+    probability: 2
+  - name: Fara San Martino
+    probability: 2
+  - name: Fara Vicentino
+    probability: 2
+  - name: Fardella
+    probability: 2
+  - name: Farigliano
+    probability: 2
+  - name: Farindola
+    probability: 2
+  - name: Farini
+    probability: 2
+  - name: Farnese
+    probability: 2
+  - name: Farra d'Isonzo
+    probability: 2
+  - name: Farra di Soligo
+    probability: 2
+  - name: Fasano
+    probability: 2
+  - name: Fascia
+    probability: 2
+  - name: Fauglia
+    probability: 2
+  - name: Faule
+    probability: 2
+  - name: Favale di Malvaro
+    probability: 2
+  - name: Favara
+    probability: 2
+  - name: Favignana
+    probability: 2
+  - name: Favria
+    probability: 2
+  - name: Feisoglio
+    probability: 2
+  - name: Feletto
+    probability: 2
+  - name: Felino
+    probability: 2
+  - name: Felitto
+    probability: 2
+  - name: Felizzano
+    probability: 2
+  - name: Feltre
+    probability: 2
+  - name: Fenegrò
+    probability: 2
+  - name: Fenestrelle
+    probability: 2
+  - name: Fenis
+    probability: 2
+  - name: Ferentillo
+    probability: 2
+  - name: Ferentino
+    probability: 2
+  - name: Ferla
+    probability: 2
+  - name: Fermignano
+    probability: 2
+  - name: Fermo
+    probability: 2
+  - name: Ferno
+    probability: 2
+  - name: Feroleto Antico
+    probability: 2
+  - name: Feroleto della Chiesa
+    probability: 2
+  - name: Ferrandina
+    probability: 2
+  - name: Ferrara
+    probability: 2
+  - name: Ferrara di Monte Baldo
+    probability: 2
+  - name: Ferrazzano
+    probability: 2
+  - name: Ferrera di Varese
+    probability: 2
+  - name: Ferrera Erbognone
+    probability: 2
+  - name: Ferrere
+    probability: 2
+  - name: Ferriere
+    probability: 2
+  - name: Ferruzzano
+    probability: 2
+  - name: Fiamignano
+    probability: 2
+  - name: Fiano
+    probability: 2
+  - name: Fiano Romano
+    probability: 2
+  - name: Fiastra
+    probability: 2
+  - name: Fiave'
+    probability: 2
+  - name: Ficarazzi
+    probability: 2
+  - name: Ficarolo
+    probability: 2
+  - name: Ficarra
+    probability: 2
+  - name: Ficulle
+    probability: 2
+  - name: Fidenza
+    probability: 2
+  - name: Fie' allo Sciliar
+    probability: 2
+  - name: Fierozzo
+    probability: 2
+  - name: Fiesco
+    probability: 2
+  - name: Fiesole
+    probability: 2
+  - name: Fiesse
+    probability: 2
+  - name: Fiesso d'Artico
+    probability: 2
+  - name: Fiesso Umbertiano
+    probability: 2
+  - name: Figino Serenza
+    probability: 2
+  - name: Figline e Incisa Valdarno
+    probability: 2
+  - name: Figline Vegliaturo
+    probability: 2
+  - name: Filacciano
+    probability: 2
+  - name: Filadelfia
+    probability: 2
+  - name: Filago
+    probability: 2
+  - name: Filandari
+    probability: 2
+  - name: Filattiera
+    probability: 2
+  - name: Filettino
+    probability: 2
+  - name: Filetto
+    probability: 2
+  - name: Filiano
+    probability: 2
+  - name: Filighera
+    probability: 2
+  - name: Filignano
+    probability: 2
+  - name: Filogaso
+    probability: 2
+  - name: Filottrano
+    probability: 2
+  - name: Finale Emilia
+    probability: 2
+  - name: Finale Ligure
+    probability: 2
+  - name: Fino del Monte
+    probability: 2
+  - name: Fino Mornasco
+    probability: 2
+  - name: Fiorano al Serio
+    probability: 2
+  - name: Fiorano Canavese
+    probability: 2
+  - name: Fiorano Modenese
+    probability: 2
+  - name: Fiorenzuola d'Arda
+    probability: 2
+  - name: Firenze
+    probability: 2
+  - name: Firenzuola
+    probability: 2
+  - name: Firmo
+    probability: 2
+  - name: Fiscaglia
+    probability: 2
+  - name: Fisciano
+    probability: 2
+  - name: Fiuggi
+    probability: 2
+  - name: Fiumalbo
+    probability: 2
+  - name: Fiumara
+    probability: 2
+  - name: Fiume Veneto
+    probability: 2
+  - name: Fiumedinisi
+    probability: 2
+  - name: Fiumefreddo Bruzio
+    probability: 2
+  - name: Fiumefreddo di Sicilia
+    probability: 2
+  - name: Fiumicello Villa Vicentina
+    probability: 2
+  - name: Fiumicino
+    probability: 2
+  - name: Fiuminata
+    probability: 2
+  - name: Fivizzano
+    probability: 2
+  - name: Flaibano
+    probability: 2
+  - name: Flero
+    probability: 2
+  - name: Floresta
+    probability: 2
+  - name: Floridia
+    probability: 2
+  - name: Florinas
+    probability: 2
+  - name: Flumeri
+    probability: 2
+  - name: Fluminimaggiore
+    probability: 2
+  - name: Flussio
+    probability: 2
+  - name: Fobello
+    probability: 2
+  - name: Foggia
+    probability: 2
+  - name: Foglianise
+    probability: 2
+  - name: Fogliano Redipuglia
+    probability: 2
+  - name: Foglizzo
+    probability: 2
+  - name: Foiano della Chiana
+    probability: 2
+  - name: Foiano di Val Fortore
+    probability: 2
+  - name: Folgaria
+    probability: 2
+  - name: Folignano
+    probability: 2
+  - name: Foligno
+    probability: 2
+  - name: Follina
+    probability: 2
+  - name: Follo
+    probability: 2
+  - name: Follonica
+    probability: 2
+  - name: Fombio
+    probability: 2
+  - name: Fondachelli-Fantina
+    probability: 2
+  - name: Fondi
+    probability: 2
+  - name: Fonni
+    probability: 2
+  - name: Fontainemore
+    probability: 2
+  - name: Fontana Liri
+    probability: 2
+  - name: Fontanafredda
+    probability: 2
+  - name: Fontanarosa
+    probability: 2
+  - name: Fontanelice
+    probability: 2
+  - name: Fontanella
+    probability: 2
+  - name: Fontanellato
+    probability: 2
+  - name: Fontanelle
+    probability: 2
+  - name: Fontaneto d'Agogna
+    probability: 2
+  - name: Fontanetto Po
+    probability: 2
+  - name: Fontanigorda
+    probability: 2
+  - name: Fontanile
+    probability: 2
+  - name: Fontaniva
+    probability: 2
+  - name: Fonte
+    probability: 2
+  - name: Fonte Nuova
+    probability: 2
+  - name: Fontecchio
+    probability: 2
+  - name: Fontechiari
+    probability: 2
+  - name: Fontegreca
+    probability: 2
+  - name: Fonteno
+    probability: 2
+  - name: Fontevivo
+    probability: 2
+  - name: Fonzaso
+    probability: 2
+  - name: Foppolo
+    probability: 2
+  - name: Forano
+    probability: 2
+  - name: Force
+    probability: 2
+  - name: Forchia
+    probability: 2
+  - name: Forcola
+    probability: 2
+  - name: Fordongianus
+    probability: 2
+  - name: Forenza
+    probability: 2
+  - name: Foresto Sparso
+    probability: 2
+  - name: Forgaria nel Friuli
+    probability: 2
+  - name: Forino
+    probability: 2
+  - name: Forio
+    probability: 2
+  - name: Forli'
+    probability: 2
+  - name: Forlì del Sannio
+    probability: 2
+  - name: Forlimpopoli
+    probability: 2
+  - name: Formazza
+    probability: 2
+  - name: Formello
+    probability: 2
+  - name: Formia
+    probability: 2
+  - name: Formicola
+    probability: 2
+  - name: Formigara
+    probability: 2
+  - name: Formigine
+    probability: 2
+  - name: Formigliana
+    probability: 2
+  - name: Fornace
+    probability: 2
+  - name: Fornelli
+    probability: 2
+  - name: Forni Avoltri
+    probability: 2
+  - name: Forni di Sopra
+    probability: 2
+  - name: Forni di Sotto
+    probability: 2
+  - name: Forno Canavese
+    probability: 2
+  - name: Fornovo di Taro
+    probability: 2
+  - name: Fornovo San Giovanni
+    probability: 2
+  - name: Forte dei Marmi
+    probability: 2
+  - name: Fortezza
+    probability: 2
+  - name: Fortunago
+    probability: 2
+  - name: Forza d'Agro'
+    probability: 2
+  - name: Fosciandora
+    probability: 2
+  - name: Fosdinovo
+    probability: 2
+  - name: Fossa
+    probability: 2
+  - name: Fossacesia
+    probability: 2
+  - name: Fossalta di Piave
+    probability: 2
+  - name: Fossalta di Portogruaro
+    probability: 2
+  - name: Fossalto
+    probability: 2
+  - name: Fossano
+    probability: 2
+  - name: Fossato di Vico
+    probability: 2
+  - name: Fossato Serralta
+    probability: 2
+  - name: Fosso'
+    probability: 2
+  - name: Fossombrone
+    probability: 2
+  - name: Foza
+    probability: 2
+  - name: Frabosa Soprana
+    probability: 2
+  - name: Frabosa Sottana
+    probability: 2
+  - name: Fraconalto
+    probability: 2
+  - name: Fragagnano
+    probability: 2
+  - name: Fragneto l'Abate
+    probability: 2
+  - name: Fragneto Monforte
+    probability: 2
+  - name: Fraine
+    probability: 2
+  - name: Framura
+    probability: 2
+  - name: Francavilla al Mare
+    probability: 2
+  - name: Francavilla Angitola
+    probability: 2
+  - name: Francavilla Bisio
+    probability: 2
+  - name: Francavilla d'Ete
+    probability: 2
+  - name: Francavilla di Sicilia
+    probability: 2
+  - name: Francavilla Fontana
+    probability: 2
+  - name: Francavilla in Sinni
+    probability: 2
+  - name: Francavilla Marittima
+    probability: 2
+  - name: Francica
+    probability: 2
+  - name: Francofonte
+    probability: 2
+  - name: Francolise
+    probability: 2
+  - name: Frascaro
+    probability: 2
+  - name: Frascarolo
+    probability: 2
+  - name: Frascati
+    probability: 2
+  - name: Frascineto
+    probability: 2
+  - name: Frassilongo
+    probability: 2
+  - name: Frassinelle Polesine
+    probability: 2
+  - name: Frassinello Monferrato
+    probability: 2
+  - name: Frassineto Po
+    probability: 2
+  - name: Frassinetto
+    probability: 2
+  - name: Frassino
+    probability: 2
+  - name: Frassinoro
+    probability: 2
+  - name: Frasso Sabino
+    probability: 2
+  - name: Frasso Telesino
+    probability: 2
+  - name: Fratta Polesine
+    probability: 2
+  - name: Fratta Todina
+    probability: 2
+  - name: Frattamaggiore
+    probability: 2
+  - name: Frattaminore
+    probability: 2
+  - name: Fratte Rosa
+    probability: 2
+  - name: Frazzano'
+    probability: 2
+  - name: Fregona
+    probability: 2
+  - name: Fresagrandinaria
+    probability: 2
+  - name: Fresonara
+    probability: 2
+  - name: Frigento
+    probability: 2
+  - name: Frignano
+    probability: 2
+  - name: Frinco
+    probability: 2
+  - name: Frisa
+    probability: 2
+  - name: Frisanco
+    probability: 2
+  - name: Front
+    probability: 2
+  - name: Frontino
+    probability: 2
+  - name: Frontone
+    probability: 2
+  - name: Frosinone
+    probability: 2
+  - name: Frosolone
+    probability: 2
+  - name: Frossasco
+    probability: 2
+  - name: Frugarolo
+    probability: 2
+  - name: Fubine Monferrato
+    probability: 2
+  - name: Fucecchio
+    probability: 2
+  - name: Fuipiano Valle Imagna
+    probability: 2
+  - name: Fumane
+    probability: 2
+  - name: Fumone
+    probability: 2
+  - name: Funes
+    probability: 2
+  - name: Furci
+    probability: 2
+  - name: Furci Siculo
+    probability: 2
+  - name: Furnari
+    probability: 2
+  - name: Furore
+    probability: 2
+  - name: Furtei
+    probability: 2
+  - name: Fuscaldo
+    probability: 2
+  - name: Fusignano
+    probability: 2
+  - name: Fusine
+    probability: 2
+  - name: Futani
+    probability: 2
+  - name: Gabbioneta-Binanuova
+    probability: 2
+  - name: Gabiano
+    probability: 2
+  - name: Gabicce Mare
+    probability: 2
+  - name: Gaby
+    probability: 2
+  - name: Gadesco-Pieve Delmona
+    probability: 2
+  - name: Gadoni
+    probability: 2
+  - name: Gaeta
+    probability: 2
+  - name: Gaggi
+    probability: 2
+  - name: Gaggiano
+    probability: 2
+  - name: Gaggio Montano
+    probability: 2
+  - name: Gaglianico
+    probability: 2
+  - name: Gagliano Aterno
+    probability: 2
+  - name: Gagliano Castelferrato
+    probability: 2
+  - name: Gagliano del Capo
+    probability: 2
+  - name: Gagliato
+    probability: 2
+  - name: Gagliole
+    probability: 2
+  - name: Gaiarine
+    probability: 2
+  - name: Gaiba
+    probability: 2
+  - name: Gaiola
+    probability: 2
+  - name: Gaiole in Chianti
+    probability: 2
+  - name: Gairo
+    probability: 2
+  - name: Gais
+    probability: 2
+  - name: Galati Mamertino
+    probability: 2
+  - name: Galatina
+    probability: 2
+  - name: Galatone
+    probability: 2
+  - name: Galatro
+    probability: 2
+  - name: Galbiate
+    probability: 2
+  - name: Galeata
+    probability: 2
+  - name: Galgagnano
+    probability: 2
+  - name: Gallarate
+    probability: 2
+  - name: Gallese
+    probability: 2
+  - name: Galliate
+    probability: 2
+  - name: Galliate Lombardo
+    probability: 2
+  - name: Galliavola
+    probability: 2
+  - name: Gallicano
+    probability: 2
+  - name: Gallicano nel Lazio
+    probability: 2
+  - name: Gallicchio
+    probability: 2
+  - name: Galliera
+    probability: 2
+  - name: Galliera Veneta
+    probability: 2
+  - name: Gallinaro
+    probability: 2
+  - name: Gallio
+    probability: 2
+  - name: Gallipoli
+    probability: 2
+  - name: Gallo Matese
+    probability: 2
+  - name: Gallodoro
+    probability: 2
+  - name: Galluccio
+    probability: 2
+  - name: Galtellì
+    probability: 2
+  - name: Galzignano Terme
+    probability: 2
+  - name: Gamalero
+    probability: 2
+  - name: Gambara
+    probability: 2
+  - name: Gambarana
+    probability: 2
+  - name: Gambasca
+    probability: 2
+  - name: Gambassi Terme
+    probability: 2
+  - name: Gambatesa
+    probability: 2
+  - name: Gambellara
+    probability: 2
+  - name: Gamberale
+    probability: 2
+  - name: Gambettola
+    probability: 2
+  - name: Gambolò
+    probability: 2
+  - name: Gambugliano
+    probability: 2
+  - name: Gandellino
+    probability: 2
+  - name: Gandino
+    probability: 2
+  - name: Gandosso
+    probability: 2
+  - name: Gangi
+    probability: 2
+  - name: Garaguso
+    probability: 2
+  - name: Garbagna
+    probability: 2
+  - name: Garbagna Novarese
+    probability: 2
+  - name: Garbagnate Milanese
+    probability: 2
+  - name: Garbagnate Monastero
+    probability: 2
+  - name: Garda
+    probability: 2
+  - name: Gardone Riviera
+    probability: 2
+  - name: Gardone Val Trompia
+    probability: 2
+  - name: Garessio
+    probability: 2
+  - name: Gargallo
+    probability: 2
+  - name: Gargazzone
+    probability: 2
+  - name: Gargnano
+    probability: 2
+  - name: Garlasco
+    probability: 2
+  - name: Garlate
+    probability: 2
+  - name: Garlenda
+    probability: 2
+  - name: Garniga Terme
+    probability: 2
+  - name: Garzeno
+    probability: 2
+  - name: Garzigliana
+    probability: 2
+  - name: Gasperina
+    probability: 2
+  - name: Gassino Torinese
+    probability: 2
+  - name: Gattatico
+    probability: 2
+  - name: Gatteo
+    probability: 2
+  - name: Gattico-Veruno
+    probability: 2
+  - name: Gattinara
+    probability: 2
+  - name: Gavardo
+    probability: 2
+  - name: Gavello
+    probability: 2
+  - name: Gaverina Terme
+    probability: 2
+  - name: Gavi
+    probability: 2
+  - name: Gavignano
+    probability: 2
+  - name: Gavirate
+    probability: 2
+  - name: Gavoi
+    probability: 2
+  - name: Gavorrano
+    probability: 2
+  - name: Gazoldo degli Ippoliti
+    probability: 2
+  - name: Gazzada Schianno
+    probability: 2
+  - name: Gazzaniga
+    probability: 2
+  - name: Gazzo
+    probability: 2
+  - name: Gazzo Veronese
+    probability: 2
+  - name: Gazzola
+    probability: 2
+  - name: Gazzuolo
+    probability: 2
+  - name: Gela
+    probability: 2
+  - name: Gemmano
+    probability: 2
+  - name: Gemona del Friuli
+    probability: 2
+  - name: Gemonio
+    probability: 2
+  - name: Genazzano
+    probability: 2
+  - name: Genga
+    probability: 2
+  - name: Genivolta
+    probability: 2
+  - name: Genola
+    probability: 2
+  - name: Genoni
+    probability: 2
+  - name: Genova
+    probability: 2
+  - name: Genuri
+    probability: 2
+  - name: Genzano di Lucania
+    probability: 2
+  - name: Genzano di Roma
+    probability: 2
+  - name: Gera Lario
+    probability: 2
+  - name: Gerace
+    probability: 2
+  - name: Geraci Siculo
+    probability: 2
+  - name: Gerano
+    probability: 2
+  - name: Gerenzago
+    probability: 2
+  - name: Gerenzano
+    probability: 2
+  - name: Gergei
+    probability: 2
+  - name: Germagnano
+    probability: 2
+  - name: Germagno
+    probability: 2
+  - name: Germignaga
+    probability: 2
+  - name: Gerocarne
+    probability: 2
+  - name: Gerola Alta
+    probability: 2
+  - name: Gerre de' Caprioli
+    probability: 2
+  - name: Gesico
+    probability: 2
+  - name: Gessate
+    probability: 2
+  - name: Gessopalena
+    probability: 2
+  - name: Gesturi
+    probability: 2
+  - name: Gesualdo
+    probability: 2
+  - name: Ghedi
+    probability: 2
+  - name: Ghemme
+    probability: 2
+  - name: Ghiffa
+    probability: 2
+  - name: Ghilarza
+    probability: 2
+  - name: Ghisalba
+    probability: 2
+  - name: Ghislarengo
+    probability: 2
+  - name: Giacciano con Baruchella
+    probability: 2
+  - name: Giaglione
+    probability: 2
+  - name: Gianico
+    probability: 2
+  - name: Giano dell'Umbria
+    probability: 2
+  - name: Giano Vetusto
+    probability: 2
+  - name: Giardinello
+    probability: 2
+  - name: Giardini-Naxos
+    probability: 2
+  - name: Giarole
+    probability: 2
+  - name: Giarratana
+    probability: 2
+  - name: Giarre
+    probability: 2
+  - name: Giave
+    probability: 2
+  - name: Giaveno
+    probability: 2
+  - name: Giavera del Montello
+    probability: 2
+  - name: Giba
+    probability: 2
+  - name: Gibellina
+    probability: 2
+  - name: Gifflenga
+    probability: 2
+  - name: Giffone
+    probability: 2
+  - name: Giffoni Sei Casali
+    probability: 2
+  - name: Giffoni Valle Piana
+    probability: 2
+  - name: Gignese
+    probability: 2
+  - name: Gignod
+    probability: 2
+  - name: Gildone
+    probability: 2
+  - name: Gimigliano
+    probability: 2
+  - name: Ginestra
+    probability: 2
+  - name: Ginestra degli Schiavoni
+    probability: 2
+  - name: Ginosa
+    probability: 2
+  - name: Gioi
+    probability: 2
+  - name: Gioia dei Marsi
+    probability: 2
+  - name: Gioia del Colle
+    probability: 2
+  - name: Gioia Sannitica
+    probability: 2
+  - name: Gioia Tauro
+    probability: 2
+  - name: Gioiosa Ionica
+    probability: 2
+  - name: Gioiosa Marea
+    probability: 2
+  - name: Giove
+    probability: 2
+  - name: Giovinazzo
+    probability: 2
+  - name: Giovo
+    probability: 2
+  - name: Girasole
+    probability: 2
+  - name: Girifalco
+    probability: 2
+  - name: Gissi
+    probability: 2
+  - name: Giuggianello
+    probability: 2
+  - name: Giugliano
+    probability: 2
+  - name: Giuliana
+    probability: 2
+  - name: Giuliano di Roma
+    probability: 2
+  - name: Giuliano Teatino
+    probability: 2
+  - name: Giulianova
+    probability: 2
+  - name: Giungano
+    probability: 2
+  - name: Giurdignano
+    probability: 2
+  - name: Giussago
+    probability: 2
+  - name: Giussano
+    probability: 2
+  - name: Giustenice
+    probability: 2
+  - name: Giustino
+    probability: 2
+  - name: Giusvalla
+    probability: 2
+  - name: Givoletto
+    probability: 2
+  - name: Gizzeria
+    probability: 2
+  - name: Glorenza
+    probability: 2
+  - name: Godega di Sant'Urbano
+    probability: 2
+  - name: Godiasco Salice Terme
+    probability: 2
+  - name: Godrano
+    probability: 2
+  - name: Goito
+    probability: 2
+  - name: Golasecca
+    probability: 2
+  - name: Golferenzo
+    probability: 2
+  - name: Golfo Aranci
+    probability: 2
+  - name: Gombito
+    probability: 2
+  - name: Gonars
+    probability: 2
+  - name: Goni
+    probability: 2
+  - name: Gonnesa
+    probability: 2
+  - name: Gonnoscodina
+    probability: 2
+  - name: Gonnosfanadiga
+    probability: 2
+  - name: Gonnosnò
+    probability: 2
+  - name: Gonnostramatza
+    probability: 2
+  - name: Gonzaga
+    probability: 2
+  - name: Gordona
+    probability: 2
+  - name: Gorga
+    probability: 2
+  - name: Gorgo al Monticano
+    probability: 2
+  - name: Gorgoglione
+    probability: 2
+  - name: Gorgonzola
+    probability: 2
+  - name: Goriano Sicoli
+    probability: 2
+  - name: Gorizia
+    probability: 2
+  - name: Gorla Maggiore
+    probability: 2
+  - name: Gorla Minore
+    probability: 2
+  - name: Gorlago
+    probability: 2
+  - name: Gorle
+    probability: 2
+  - name: Gornate Olona
+    probability: 2
+  - name: Gorno
+    probability: 2
+  - name: Goro
+    probability: 2
+  - name: Gorreto
+    probability: 2
+  - name: Gorzegno
+    probability: 2
+  - name: Gosaldo
+    probability: 2
+  - name: Gossolengo
+    probability: 2
+  - name: Gottasecca
+    probability: 2
+  - name: Gottolengo
+    probability: 2
+  - name: Govone
+    probability: 2
+  - name: Gozzano
+    probability: 2
+  - name: Gradara
+    probability: 2
+  - name: Gradisca d'Isonzo
+    probability: 2
+  - name: Grado
+    probability: 2
+  - name: Gradoli
+    probability: 2
+  - name: Graffignana
+    probability: 2
+  - name: Graffignano
+    probability: 2
+  - name: Graglia
+    probability: 2
+  - name: Gragnano
+    probability: 2
+  - name: Gragnano Trebbiense
+    probability: 2
+  - name: Grammichele
+    probability: 2
+  - name: Grana
+    probability: 2
+  - name: Granarolo dell'Emilia
+    probability: 2
+  - name: Grandate
+    probability: 2
+  - name: Grandola ed Uniti
+    probability: 2
+  - name: Graniti
+    probability: 2
+  - name: Granozzo con Monticello
+    probability: 2
+  - name: Grantola
+    probability: 2
+  - name: Grantorto
+    probability: 2
+  - name: Granze
+    probability: 2
+  - name: Grassano
+    probability: 2
+  - name: Grassobbio
+    probability: 2
+  - name: Gratteri
+    probability: 2
+  - name: Gravedona ed Uniti
+    probability: 2
+  - name: Gravellona Lomellina
+    probability: 2
+  - name: Gravellona Toce
+    probability: 2
+  - name: Gravere
+    probability: 2
+  - name: Gravina di Catania
+    probability: 2
+  - name: Gravina in Puglia
+    probability: 2
+  - name: Grazzanise
+    probability: 2
+  - name: Grazzano Badoglio
+    probability: 2
+  - name: Greccio
+    probability: 2
+  - name: Greci
+    probability: 2
+  - name: Greggio
+    probability: 2
+  - name: Gremiasco
+    probability: 2
+  - name: Gressan
+    probability: 2
+  - name: Gressoney-La-Trinité
+    probability: 2
+  - name: Gressoney-Saint-Jean
+    probability: 2
+  - name: Greve in Chianti
+    probability: 2
+  - name: Grezzago
+    probability: 2
+  - name: Grezzana
+    probability: 2
+  - name: Griante
+    probability: 2
+  - name: Gricignano di Aversa
+    probability: 2
+  - name: Grignasco
+    probability: 2
+  - name: Grigno
+    probability: 2
+  - name: Grimacco
+    probability: 2
+  - name: Grimaldi
+    probability: 2
+  - name: Grinzane Cavour
+    probability: 2
+  - name: Grisignano di Zocco
+    probability: 2
+  - name: Grisolia
+    probability: 2
+  - name: Grizzana Morandi
+    probability: 2
+  - name: Grognardo
+    probability: 2
+  - name: Gromo
+    probability: 2
+  - name: Grondona
+    probability: 2
+  - name: Grone
+    probability: 2
+  - name: Grontardo
+    probability: 2
+  - name: Gropello Cairoli
+    probability: 2
+  - name: Gropparello
+    probability: 2
+  - name: Groscavallo
+    probability: 2
+  - name: Grosio
+    probability: 2
+  - name: Grosotto
+    probability: 2
+  - name: Grosseto
+    probability: 2
+  - name: Grosso
+    probability: 2
+  - name: Grottaferrata
+    probability: 2
+  - name: Grottaglie
+    probability: 2
+  - name: Grottaminarda
+    probability: 2
+  - name: Grottammare
+    probability: 2
+  - name: Grottazzolina
+    probability: 2
+  - name: Grotte
+    probability: 2
+  - name: Grotte di Castro
+    probability: 2
+  - name: Grotteria
+    probability: 2
+  - name: Grottole
+    probability: 2
+  - name: Grottolella
+    probability: 2
+  - name: Gruaro
+    probability: 2
+  - name: Grugliasco
+    probability: 2
+  - name: Grumello Cremonese ed Uniti
+    probability: 2
+  - name: Grumello del Monte
+    probability: 2
+  - name: Grumento Nova
+    probability: 2
+  - name: Grumo Appula
+    probability: 2
+  - name: Grumo Nevano
+    probability: 2
+  - name: Grumolo delle Abbadesse
+    probability: 2
+  - name: Guagnano
+    probability: 2
+  - name: Gualdo
+    probability: 2
+  - name: Gualdo Cattaneo
+    probability: 2
+  - name: Gualdo Tadino
+    probability: 2
+  - name: Gualtieri
+    probability: 2
+  - name: Gualtieri Sicaminò
+    probability: 2
+  - name: Guamaggiore
+    probability: 2
+  - name: Guanzate
+    probability: 2
+  - name: Guarcino
+    probability: 2
+  - name: Guarda Veneta
+    probability: 2
+  - name: Guardabosone
+    probability: 2
+  - name: Guardamiglio
+    probability: 2
+  - name: Guardavalle
+    probability: 2
+  - name: Guardea
+    probability: 2
+  - name: Guardia Lombardi
+    probability: 2
+  - name: Guardia Perticara
+    probability: 2
+  - name: Guardia Piemontese
+    probability: 2
+  - name: Guardia Sanframondi
+    probability: 2
+  - name: Guardiagrele
+    probability: 2
+  - name: Guardialfiera
+    probability: 2
+  - name: Guardiaregia
+    probability: 2
+  - name: Guardistallo
+    probability: 2
+  - name: Guarene
+    probability: 2
+  - name: Guasila
+    probability: 2
+  - name: Guastalla
+    probability: 2
+  - name: Guazzora
+    probability: 2
+  - name: Gubbio
+    probability: 2
+  - name: Gudo Visconti
+    probability: 2
+  - name: Guglionesi
+    probability: 2
+  - name: Guidizzolo
+    probability: 2
+  - name: Guidonia Montecelio
+    probability: 2
+  - name: Guiglia
+    probability: 2
+  - name: Guilmi
+    probability: 2
+  - name: Gurro
+    probability: 2
+  - name: Guspini
+    probability: 2
+  - name: Gussago
+    probability: 2
+  - name: Gussola
+    probability: 2
+    
 name: Italian
 source: https://www.tuttitalia.it/
 subsets: []
