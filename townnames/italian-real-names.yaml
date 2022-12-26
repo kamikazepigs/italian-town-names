@@ -299,7 +299,9 @@ subsets:
       probability: 1
 - name: Comuni 1
   parts:
-  - names: []
+  - names:
+    - name: ff
+      probability: 1
 - name: Comuni 2
   parts:
   - names: []
