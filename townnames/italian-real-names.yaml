@@ -2,7 +2,7 @@ available: true
 id: 0
 mainset:
 - names:
-  - name: '@Capoluoghi di Regiona'
+  - name: '@Capoluoghi di Regione'
     probability: 8
   - name: '@Provincie'
     probability: 4
